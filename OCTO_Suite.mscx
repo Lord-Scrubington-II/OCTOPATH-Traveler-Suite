@@ -2775,7 +2775,6 @@ Zane Wang</text>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <linkedMain/>
                 </Slur>
               <next>
                 <location>
@@ -2839,7 +2838,6 @@ Zane Wang</text>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <linkedMain/>
                 </Slur>
               <next>
                 <location>
@@ -2962,7 +2960,6 @@ Zane Wang</text>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <linkedMain/>
                 </Slur>
               <next>
                 <location>
@@ -3120,7 +3117,6 @@ Zane Wang</text>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <linkedMain/>
                 </Slur>
               <next>
                 <location>
@@ -3255,7 +3251,6 @@ Zane Wang</text>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <linkedMain/>
                 </Slur>
               <next>
                 <location>
@@ -3358,7 +3353,6 @@ Zane Wang</text>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <linkedMain/>
                 </Slur>
               <next>
                 <location>
@@ -3542,7 +3536,6 @@ Zane Wang</text>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <linkedMain/>
                 </Slur>
               <next>
                 <location>
@@ -3913,7 +3906,6 @@ Zane Wang</text>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <linkedMain/>
                 </Slur>
               <next>
                 <location>
@@ -3969,7 +3961,6 @@ Zane Wang</text>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <linkedMain/>
                 </Slur>
               <next>
                 <location>
@@ -4308,7 +4299,6 @@ Zane Wang</text>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <linkedMain/>
                 </Slur>
               <next>
                 <location>
@@ -4532,7 +4522,6 @@ Zane Wang</text>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <linkedMain/>
                 </Slur>
               <next>
                 <location>
@@ -4658,7 +4647,6 @@ Zane Wang</text>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <linkedMain/>
                 </Slur>
               <next>
                 <location>
@@ -4718,7 +4706,6 @@ Zane Wang</text>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <linkedMain/>
                 </Slur>
               <next>
                 <location>
@@ -4821,7 +4808,6 @@ Zane Wang</text>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <linkedMain/>
                 </Slur>
               <next>
                 <location>
@@ -9156,7 +9142,6 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <linkedMain/>
                 </Slur>
               <next>
                 <location>
@@ -9380,7 +9365,6 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <linkedMain/>
                 </Slur>
               <next>
                 <location>
@@ -9506,7 +9490,6 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <linkedMain/>
                 </Slur>
               <next>
                 <location>
@@ -9566,7 +9549,6 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <linkedMain/>
                 </Slur>
               <next>
                 <location>
@@ -9669,7 +9651,6 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <linkedMain/>
                 </Slur>
               <next>
                 <location>
@@ -244766,7 +244747,7 @@ Bottom: Euph + Bass Tbn, 8vb if desired</text>
             </Chord>
           <Chord>
             <linkedMain/>
-            <BeamMode>begin</BeamMode>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -244776,7 +244757,7 @@ Bottom: Euph + Bass Tbn, 8vb if desired</text>
             </Chord>
           <Chord>
             <linkedMain/>
-            <BeamMode>mid</BeamMode>
+            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -244799,7 +244780,7 @@ Bottom: Euph + Bass Tbn, 8vb if desired</text>
             </Chord>
           <Chord>
             <linkedMain/>
-            <BeamMode>begin</BeamMode>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -244853,7 +244834,7 @@ Bottom: Euph + Bass Tbn, 8vb if desired</text>
             </Chord>
           <Chord>
             <linkedMain/>
-            <BeamMode>begin</BeamMode>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -244863,7 +244844,7 @@ Bottom: Euph + Bass Tbn, 8vb if desired</text>
             </Chord>
           <Chord>
             <linkedMain/>
-            <BeamMode>mid</BeamMode>
+            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -244886,7 +244867,7 @@ Bottom: Euph + Bass Tbn, 8vb if desired</text>
             </Chord>
           <Chord>
             <linkedMain/>
-            <BeamMode>begin</BeamMode>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -244940,7 +244921,7 @@ Bottom: Euph + Bass Tbn, 8vb if desired</text>
             </Chord>
           <Chord>
             <linkedMain/>
-            <BeamMode>begin</BeamMode>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -244950,7 +244931,7 @@ Bottom: Euph + Bass Tbn, 8vb if desired</text>
             </Chord>
           <Chord>
             <linkedMain/>
-            <BeamMode>mid</BeamMode>
+            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -244973,7 +244954,7 @@ Bottom: Euph + Bass Tbn, 8vb if desired</text>
             </Chord>
           <Chord>
             <linkedMain/>
-            <BeamMode>begin</BeamMode>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -245027,7 +245008,7 @@ Bottom: Euph + Bass Tbn, 8vb if desired</text>
             </Chord>
           <Chord>
             <linkedMain/>
-            <BeamMode>begin</BeamMode>
+            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -245037,7 +245018,7 @@ Bottom: Euph + Bass Tbn, 8vb if desired</text>
             </Chord>
           <Chord>
             <linkedMain/>
-            <BeamMode>mid</BeamMode>
+            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
@@ -245060,7 +245041,7 @@ Bottom: Euph + Bass Tbn, 8vb if desired</text>
             </Chord>
           <Chord>
             <linkedMain/>
-            <BeamMode>begin</BeamMode>
+            <BeamMode>mid</BeamMode>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
@@ -337372,7 +337353,6 @@ Zane Wang</text>
               <acciaccatura/>
               <Note>
                 <linked>
-                  <indexDiff>1</indexDiff>
                   </linked>
                 <pitch>86</pitch>
                 <tpc>16</tpc>
@@ -337380,13 +337360,11 @@ Zane Wang</text>
               </Chord>
             <Chord>
               <linked>
-                <indexDiff>1</indexDiff>
                 </linked>
               <durationType>eighth</durationType>
               <Spanner type="Slur">
                 <Slur>
                   <linked>
-                    <indexDiff>1</indexDiff>
                     </linked>
                   </Slur>
                 <next>
@@ -337397,7 +337375,6 @@ Zane Wang</text>
                 </Spanner>
               <Note>
                 <linked>
-                  <indexDiff>1</indexDiff>
                   </linked>
                 <pitch>87</pitch>
                 <tpc>11</tpc>
@@ -337433,7 +337410,6 @@ Zane Wang</text>
               <acciaccatura/>
               <Note>
                 <linked>
-                  <indexDiff>1</indexDiff>
                   </linked>
                 <pitch>87</pitch>
                 <tpc>11</tpc>
@@ -337441,7 +337417,6 @@ Zane Wang</text>
               </Chord>
             <Chord>
               <linked>
-                <indexDiff>1</indexDiff>
                 </linked>
               <durationType>half</durationType>
               <Spanner type="Slur">
@@ -337453,7 +337428,6 @@ Zane Wang</text>
                 </Spanner>
               <Note>
                 <linked>
-                  <indexDiff>1</indexDiff>
                   </linked>
                 <pitch>89</pitch>
                 <tpc>13</tpc>
@@ -337558,7 +337532,6 @@ Zane Wang</text>
               <acciaccatura/>
               <Note>
                 <linked>
-                  <indexDiff>1</indexDiff>
                   </linked>
                 <pitch>92</pitch>
                 <tpc>10</tpc>
@@ -337566,12 +337539,10 @@ Zane Wang</text>
               </Chord>
             <Chord>
               <linked>
-                <indexDiff>1</indexDiff>
                 </linked>
               <durationType>half</durationType>
               <Note>
                 <linked>
-                  <indexDiff>1</indexDiff>
                   </linked>
                 <pitch>94</pitch>
                 <tpc>12</tpc>
@@ -337733,7 +337704,6 @@ Zane Wang</text>
               <acciaccatura/>
               <Note>
                 <linked>
-                  <indexDiff>1</indexDiff>
                   </linked>
                 <pitch>80</pitch>
                 <tpc>10</tpc>
@@ -337741,19 +337711,16 @@ Zane Wang</text>
               </Chord>
             <Chord>
               <linked>
-                <indexDiff>1</indexDiff>
                 </linked>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Articulation>
                 <subtype>articAccentAbove</subtype>
                 <linked>
-                  <indexDiff>1</indexDiff>
                   </linked>
                 </Articulation>
               <Note>
                 <linked>
-                  <indexDiff>1</indexDiff>
                   </linked>
                 <pitch>82</pitch>
                 <tpc>12</tpc>
@@ -337872,7 +337839,6 @@ Zane Wang</text>
               <acciaccatura/>
               <Note>
                 <linked>
-                  <indexDiff>1</indexDiff>
                   </linked>
                 <pitch>85</pitch>
                 <tpc>9</tpc>
@@ -337880,17 +337846,14 @@ Zane Wang</text>
               </Chord>
             <Chord>
               <linked>
-                <indexDiff>1</indexDiff>
                 </linked>
               <durationType>half</durationType>
               <Note>
                 <linked>
-                  <indexDiff>1</indexDiff>
                   </linked>
                 <Spanner type="Tie">
                   <Tie>
                     <linked>
-                      <indexDiff>1</indexDiff>
                       </linked>
                     </Tie>
                   <next>
@@ -337977,7 +337940,6 @@ Zane Wang</text>
               <acciaccatura/>
               <Note>
                 <linked>
-                  <indexDiff>1</indexDiff>
                   </linked>
                 <pitch>91</pitch>
                 <tpc>15</tpc>
@@ -337985,7 +337947,6 @@ Zane Wang</text>
               </Chord>
             <Chord>
               <linked>
-                <indexDiff>1</indexDiff>
                 </linked>
               <dots>1</dots>
               <durationType>half</durationType>
@@ -337999,7 +337960,6 @@ Zane Wang</text>
                 </Spanner>
               <Note>
                 <linked>
-                  <indexDiff>1</indexDiff>
                   </linked>
                 <pitch>92</pitch>
                 <tpc>10</tpc>
@@ -338171,7 +338131,6 @@ Zane Wang</text>
               <acciaccatura/>
               <Note>
                 <linked>
-                  <indexDiff>1</indexDiff>
                   </linked>
                 <pitch>85</pitch>
                 <tpc>9</tpc>
@@ -338179,17 +338138,14 @@ Zane Wang</text>
               </Chord>
             <Chord>
               <linked>
-                <indexDiff>1</indexDiff>
                 </linked>
               <durationType>whole</durationType>
               <Note>
                 <linked>
-                  <indexDiff>1</indexDiff>
                   </linked>
                 <Spanner type="Tie">
                   <Tie>
                     <linked>
-                      <indexDiff>1</indexDiff>
                       </linked>
                     </Tie>
                   <next>
@@ -338580,7 +338536,6 @@ Zane Wang</text>
               <acciaccatura/>
               <Note>
                 <linked>
-                  <indexDiff>1</indexDiff>
                   </linked>
                 <pitch>91</pitch>
                 <tpc>15</tpc>
@@ -338588,7 +338543,6 @@ Zane Wang</text>
               </Chord>
             <Chord>
               <linked>
-                <indexDiff>1</indexDiff>
                 </linked>
               <durationType>half</durationType>
               <Spanner type="Slur">
@@ -338601,7 +338555,6 @@ Zane Wang</text>
                 </Spanner>
               <Note>
                 <linked>
-                  <indexDiff>1</indexDiff>
                   </linked>
                 <pitch>92</pitch>
                 <tpc>10</tpc>
@@ -338629,7 +338582,6 @@ Zane Wang</text>
               <acciaccatura/>
               <Note>
                 <linked>
-                  <indexDiff>1</indexDiff>
                   </linked>
                 <pitch>91</pitch>
                 <tpc>15</tpc>
@@ -338637,17 +338589,14 @@ Zane Wang</text>
               </Chord>
             <Chord>
               <linked>
-                <indexDiff>1</indexDiff>
                 </linked>
               <durationType>whole</durationType>
               <Note>
                 <linked>
-                  <indexDiff>1</indexDiff>
                   </linked>
                 <Spanner type="Tie">
                   <Tie>
                     <linked>
-                      <indexDiff>1</indexDiff>
                       </linked>
                     </Tie>
                   <next>
@@ -339000,7 +338949,6 @@ Zane Wang</text>
               <acciaccatura/>
               <Note>
                 <linked>
-                  <indexDiff>1</indexDiff>
                   </linked>
                 <pitch>91</pitch>
                 <tpc>15</tpc>
@@ -339008,13 +338956,11 @@ Zane Wang</text>
               </Chord>
             <Chord>
               <linked>
-                <indexDiff>1</indexDiff>
                 </linked>
               <dots>1</dots>
               <durationType>half</durationType>
               <Note>
                 <linked>
-                  <indexDiff>1</indexDiff>
                   </linked>
                 <pitch>92</pitch>
                 <tpc>10</tpc>
@@ -339243,7 +339189,6 @@ Zane Wang</text>
               <acciaccatura/>
               <Note>
                 <linked>
-                  <indexDiff>1</indexDiff>
                   </linked>
                 <pitch>91</pitch>
                 <tpc>15</tpc>
@@ -339251,13 +339196,11 @@ Zane Wang</text>
               </Chord>
             <Chord>
               <linked>
-                <indexDiff>1</indexDiff>
                 </linked>
               <dots>1</dots>
               <durationType>half</durationType>
               <Note>
                 <linked>
-                  <indexDiff>1</indexDiff>
                   </linked>
                 <pitch>92</pitch>
                 <tpc>10</tpc>
@@ -339374,7 +339317,6 @@ Zane Wang</text>
               <acciaccatura/>
               <Note>
                 <linked>
-                  <indexDiff>1</indexDiff>
                   </linked>
                 <pitch>91</pitch>
                 <tpc>15</tpc>
@@ -339382,12 +339324,10 @@ Zane Wang</text>
               </Chord>
             <Chord>
               <linked>
-                <indexDiff>1</indexDiff>
                 </linked>
               <durationType>half</durationType>
               <Note>
                 <linked>
-                  <indexDiff>1</indexDiff>
                   </linked>
                 <pitch>92</pitch>
                 <tpc>10</tpc>
@@ -339428,7 +339368,6 @@ Zane Wang</text>
               <acciaccatura/>
               <Note>
                 <linked>
-                  <indexDiff>1</indexDiff>
                   </linked>
                 <pitch>92</pitch>
                 <tpc>10</tpc>
@@ -339436,13 +339375,11 @@ Zane Wang</text>
               </Chord>
             <Chord>
               <linked>
-                <indexDiff>1</indexDiff>
                 </linked>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
-                  <indexDiff>1</indexDiff>
                   </linked>
                 <pitch>94</pitch>
                 <tpc>12</tpc>
@@ -339532,7 +339469,6 @@ Zane Wang</text>
               <acciaccatura/>
               <Note>
                 <linked>
-                  <indexDiff>1</indexDiff>
                   </linked>
                 <pitch>92</pitch>
                 <tpc>10</tpc>
@@ -339540,13 +339476,11 @@ Zane Wang</text>
               </Chord>
             <Chord>
               <linked>
-                <indexDiff>1</indexDiff>
                 </linked>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
-                  <indexDiff>1</indexDiff>
                   </linked>
                 <pitch>94</pitch>
                 <tpc>12</tpc>
@@ -344763,7 +344697,6 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
               <acciaccatura/>
               <Note>
                 <linked>
-                  <indexDiff>1</indexDiff>
                   </linked>
                 <pitch>91</pitch>
                 <tpc>15</tpc>
@@ -344771,13 +344704,11 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
               </Chord>
             <Chord>
               <linked>
-                <indexDiff>1</indexDiff>
                 </linked>
               <dots>1</dots>
               <durationType>half</durationType>
               <Note>
                 <linked>
-                  <indexDiff>1</indexDiff>
                   </linked>
                 <pitch>92</pitch>
                 <tpc>10</tpc>
@@ -345006,7 +344937,6 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
               <acciaccatura/>
               <Note>
                 <linked>
-                  <indexDiff>1</indexDiff>
                   </linked>
                 <pitch>91</pitch>
                 <tpc>15</tpc>
@@ -345014,13 +344944,11 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
               </Chord>
             <Chord>
               <linked>
-                <indexDiff>1</indexDiff>
                 </linked>
               <dots>1</dots>
               <durationType>half</durationType>
               <Note>
                 <linked>
-                  <indexDiff>1</indexDiff>
                   </linked>
                 <pitch>92</pitch>
                 <tpc>10</tpc>
@@ -345137,7 +345065,6 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
               <acciaccatura/>
               <Note>
                 <linked>
-                  <indexDiff>1</indexDiff>
                   </linked>
                 <pitch>91</pitch>
                 <tpc>15</tpc>
@@ -345145,12 +345072,10 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
               </Chord>
             <Chord>
               <linked>
-                <indexDiff>1</indexDiff>
                 </linked>
               <durationType>half</durationType>
               <Note>
                 <linked>
-                  <indexDiff>1</indexDiff>
                   </linked>
                 <pitch>92</pitch>
                 <tpc>10</tpc>
@@ -345191,7 +345116,6 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
               <acciaccatura/>
               <Note>
                 <linked>
-                  <indexDiff>1</indexDiff>
                   </linked>
                 <pitch>92</pitch>
                 <tpc>10</tpc>
@@ -345199,13 +345123,11 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
               </Chord>
             <Chord>
               <linked>
-                <indexDiff>1</indexDiff>
                 </linked>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
-                  <indexDiff>1</indexDiff>
                   </linked>
                 <pitch>94</pitch>
                 <tpc>12</tpc>
@@ -345295,7 +345217,6 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
               <acciaccatura/>
               <Note>
                 <linked>
-                  <indexDiff>1</indexDiff>
                   </linked>
                 <pitch>92</pitch>
                 <tpc>10</tpc>
@@ -345303,13 +345224,11 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
               </Chord>
             <Chord>
               <linked>
-                <indexDiff>1</indexDiff>
                 </linked>
               <dots>1</dots>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
-                  <indexDiff>1</indexDiff>
                   </linked>
                 <pitch>94</pitch>
                 <tpc>12</tpc>
@@ -632040,7 +631959,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             <Chord>
               <linked>
                 </linked>
-              <BeamMode>begin</BeamMode>
+              <BeamMode>mid</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -632052,7 +631971,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             <Chord>
               <linked>
                 </linked>
-              <BeamMode>mid</BeamMode>
+              <BeamMode>begin</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -632080,7 +631999,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             <Chord>
               <linked>
                 </linked>
-              <BeamMode>begin</BeamMode>
+              <BeamMode>mid</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -632145,7 +632064,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             <Chord>
               <linked>
                 </linked>
-              <BeamMode>begin</BeamMode>
+              <BeamMode>mid</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -632157,7 +632076,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             <Chord>
               <linked>
                 </linked>
-              <BeamMode>mid</BeamMode>
+              <BeamMode>begin</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -632185,7 +632104,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             <Chord>
               <linked>
                 </linked>
-              <BeamMode>begin</BeamMode>
+              <BeamMode>mid</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -632250,7 +632169,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             <Chord>
               <linked>
                 </linked>
-              <BeamMode>begin</BeamMode>
+              <BeamMode>mid</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -632262,7 +632181,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             <Chord>
               <linked>
                 </linked>
-              <BeamMode>mid</BeamMode>
+              <BeamMode>begin</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -632290,7 +632209,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             <Chord>
               <linked>
                 </linked>
-              <BeamMode>begin</BeamMode>
+              <BeamMode>mid</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -632355,7 +632274,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             <Chord>
               <linked>
                 </linked>
-              <BeamMode>begin</BeamMode>
+              <BeamMode>mid</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -632367,7 +632286,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             <Chord>
               <linked>
                 </linked>
-              <BeamMode>mid</BeamMode>
+              <BeamMode>begin</BeamMode>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
@@ -632395,7 +632314,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             <Chord>
               <linked>
                 </linked>
-              <BeamMode>begin</BeamMode>
+              <BeamMode>mid</BeamMode>
               <durationType>quarter</durationType>
               <Note>
                 <linked>
