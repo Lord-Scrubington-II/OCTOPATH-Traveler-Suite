@@ -4936,6 +4936,10 @@ Zane Wang</text>
         </Measure>
       <Measure>
         <voice>
+          <Fermata>
+            <subtype>fermataAbove</subtype>
+            <linkedMain/>
+            </Fermata>
           <Rest>
             <linkedMain/>
             <durationType>measure</durationType>
@@ -5697,6 +5701,10 @@ Zane Wang</text>
           <subtype>page</subtype>
           </LayoutBreak>
         <voice>
+          <Fermata>
+            <subtype>fermataAbove</subtype>
+            <linkedMain/>
+            </Fermata>
           <Rest>
             <linkedMain/>
             <durationType>measure</durationType>
@@ -5914,6 +5922,10 @@ Zane Wang</text>
         </Measure>
       <Measure>
         <voice>
+          <Fermata>
+            <subtype>fermataAbove</subtype>
+            <linkedMain/>
+            </Fermata>
           <Rest>
             <linkedMain/>
             <durationType>measure</durationType>
@@ -8861,6 +8873,11 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             <durationType>measure</durationType>
             <duration>4/4</duration>
             </Rest>
+          <Breath>
+            <symbol>caesura</symbol>
+            <pause>2</pause>
+            <linkedMain/>
+            </Breath>
           <BarLine>
             <subtype>double</subtype>
             <linkedMain/>
@@ -21280,6 +21297,11 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             <durationType>measure</durationType>
             <duration>4/4</duration>
             </Rest>
+          <Breath>
+            <symbol>caesura</symbol>
+            <pause>2</pause>
+            <linkedMain/>
+            </Breath>
           <BarLine>
             <subtype>double</subtype>
             <linkedMain/>
@@ -161160,6 +161182,11 @@ Bottom: Euph + Bass Tbn, 8vb if desired</text>
             <durationType>measure</durationType>
             <duration>4/4</duration>
             </Rest>
+          <Breath>
+            <symbol>caesura</symbol>
+            <pause>2</pause>
+            <linkedMain/>
+            </Breath>
           <BarLine>
             <subtype>double</subtype>
             <linkedMain/>
@@ -169194,6 +169221,11 @@ Bottom: Euph + Bass Tbn, 8vb if desired</text>
             <durationType>measure</durationType>
             <duration>4/4</duration>
             </Rest>
+          <Breath>
+            <symbol>caesura</symbol>
+            <pause>2</pause>
+            <linkedMain/>
+            </Breath>
           <BarLine>
             <subtype>double</subtype>
             <linkedMain/>
@@ -181035,6 +181067,11 @@ Bottom: Euph + Bass Tbn, 8vb if desired</text>
             <durationType>measure</durationType>
             <duration>4/4</duration>
             </Rest>
+          <Breath>
+            <symbol>caesura</symbol>
+            <pause>2</pause>
+            <linkedMain/>
+            </Breath>
           <BarLine>
             <subtype>double</subtype>
             <linkedMain/>
@@ -189434,6 +189471,11 @@ Bottom: Euph + Bass Tbn, 8vb if desired</text>
             <durationType>measure</durationType>
             <duration>4/4</duration>
             </Rest>
+          <Breath>
+            <symbol>caesura</symbol>
+            <pause>2</pause>
+            <linkedMain/>
+            </Breath>
           <BarLine>
             <subtype>double</subtype>
             <linkedMain/>
@@ -280418,6 +280460,10 @@ Bottom: Euph + Bass Tbn, 8vb if desired</text>
         </Measure>
       <Measure>
         <voice>
+          <Fermata>
+            <subtype>fermataAbove</subtype>
+            <linkedMain/>
+            </Fermata>
           <Rest>
             <linkedMain/>
             <durationType>measure</durationType>
@@ -300205,6 +300251,10 @@ accent Es slightly</text>
         </Measure>
       <Measure>
         <voice>
+          <Fermata>
+            <subtype>fermataAbove</subtype>
+            <linkedMain/>
+            </Fermata>
           <Rest>
             <linkedMain/>
             <durationType>measure</durationType>
@@ -317248,6 +317298,10 @@ accent Es slightly</text>
         </Measure>
       <Measure>
         <voice>
+          <Fermata>
+            <subtype>fermataAbove</subtype>
+            <linkedMain/>
+            </Fermata>
           <Rest>
             <linkedMain/>
             <durationType>measure</durationType>
@@ -324828,6 +324882,10 @@ accent Es slightly</text>
         </Measure>
       <Measure>
         <voice>
+          <Fermata>
+            <subtype>fermataAbove</subtype>
+            <linkedMain/>
+            </Fermata>
           <Rest>
             <linkedMain/>
             <durationType>measure</durationType>
@@ -333807,6 +333865,10 @@ accent Es slightly</text>
         </Measure>
       <Measure>
         <voice>
+          <Fermata>
+            <subtype>fermataAbove</subtype>
+            <linkedMain/>
+            </Fermata>
           <Rest>
             <linkedMain/>
             <durationType>measure</durationType>
@@ -339575,19 +339637,22 @@ Zane Wang</text>
               </Rest>
             </voice>
           </Measure>
-        <Measure len="24/4">
-          <multiMeasureRest>6</multiMeasureRest>
-          <LayoutBreak>
-            <subtype>section</subtype>
-            </LayoutBreak>
+        <Measure len="16/4">
+          <multiMeasureRest>4</multiMeasureRest>
           <voice>
             <Rest>
               <durationType>measure</durationType>
               <duration>24/4</duration>
               </Rest>
+            <location>
+              <fractions>-2/1</fractions>
+              </location>
             <BarLine>
               <subtype>double</subtype>
               <linked>
+                <location>
+                  <fractions>2/1</fractions>
+                  </location>
                 <indexDiff>1</indexDiff>
                 </linked>
               </BarLine>
@@ -339625,6 +339690,11 @@ Zane Wang</text>
           </Measure>
         <Measure>
           <voice>
+            <Fermata>
+              <subtype>fermataAbove</subtype>
+              <linked>
+                </linked>
+              </Fermata>
             <Rest>
               <linked>
                 </linked>
@@ -340484,16 +340554,22 @@ Zane Wang</text>
               </Rest>
             </voice>
           </Measure>
-        <Measure len="32/4">
-          <multiMeasureRest>8</multiMeasureRest>
+        <Measure len="28/4">
+          <multiMeasureRest>7</multiMeasureRest>
           <voice>
             <Rest>
               <durationType>measure</durationType>
               <duration>32/4</duration>
               </Rest>
+            <location>
+              <fractions>-1/1</fractions>
+              </location>
             <BarLine>
               <subtype>double</subtype>
               <linked>
+                <location>
+                  <fractions>1/1</fractions>
+                  </location>
                 <indexDiff>1</indexDiff>
                 </linked>
               </BarLine>
@@ -340561,6 +340637,11 @@ Zane Wang</text>
           </Measure>
         <Measure>
           <voice>
+            <Fermata>
+              <subtype>fermataAbove</subtype>
+              <linked>
+                </linked>
+              </Fermata>
             <Rest>
               <linked>
                 </linked>
@@ -340602,8 +340683,8 @@ Zane Wang</text>
               </Rest>
             </voice>
           </Measure>
-        <Measure len="88/4">
-          <multiMeasureRest>22</multiMeasureRest>
+        <Measure len="84/4">
+          <multiMeasureRest>21</multiMeasureRest>
           <voice>
             <Tempo>
               <tempo>1.3333299999999999</tempo>
@@ -340623,9 +340704,15 @@ Zane Wang</text>
               <durationType>measure</durationType>
               <duration>88/4</duration>
               </Rest>
+            <location>
+              <fractions>-1/1</fractions>
+              </location>
             <BarLine>
               <subtype>double</subtype>
               <linked>
+                <location>
+                  <fractions>1/1</fractions>
+                  </location>
                 </linked>
               </BarLine>
             </voice>
@@ -340832,6 +340919,11 @@ Zane Wang</text>
           </Measure>
         <Measure>
           <voice>
+            <Fermata>
+              <subtype>fermataAbove</subtype>
+              <linked>
+                </linked>
+              </Fermata>
             <Rest>
               <linked>
                 </linked>
@@ -344354,6 +344446,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             <BarLine>
               <subtype>double</subtype>
               <linked>
+                <indexDiff>1</indexDiff>
                 </linked>
               </BarLine>
             </voice>
@@ -344386,6 +344479,12 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
               <durationType>measure</durationType>
               <duration>4/4</duration>
               </Rest>
+            <Breath>
+              <symbol>caesura</symbol>
+              <pause>2</pause>
+              <linked>
+                </linked>
+              </Breath>
             <BarLine>
               <subtype>double</subtype>
               <linked>
@@ -359218,6 +359317,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             <BarLine>
               <subtype>double</subtype>
               <linked>
+                <indexDiff>1</indexDiff>
                 </linked>
               </BarLine>
             </voice>
@@ -359250,6 +359350,12 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
               <durationType>measure</durationType>
               <duration>4/4</duration>
               </Rest>
+            <Breath>
+              <symbol>caesura</symbol>
+              <pause>2</pause>
+              <linked>
+                </linked>
+              </Breath>
             <BarLine>
               <subtype>double</subtype>
               <linked>
@@ -359271,7 +359377,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
                 <location>
                   <staves>-1</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b>a tempo (</b><font face="ScoreText"></font><b><font face="Edwin"></font> = 128)</b></text>
               </Tempo>
@@ -359280,13 +359386,13 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
                 <location>
                   <staves>-1</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><i>End of the Main Theme</i></text>
               </SystemText>
             <Rest>
               <linked>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <durationType>half</durationType>
               </Rest>
@@ -372779,7 +372885,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
                 <location>
                   <staves>-2</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b>a tempo (</b><font face="ScoreText"></font><b><font face="Edwin"></font> = 128)</b></text>
               </Tempo>
@@ -372788,7 +372894,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
                 <location>
                   <staves>-2</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><i>End of the Main Theme</i></text>
               </SystemText>
@@ -388503,7 +388609,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
                 <location>
                   <staves>-3</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b>a tempo (</b><font face="ScoreText"></font><b><font face="Edwin"></font> = 128)</b></text>
               </Tempo>
@@ -388512,7 +388618,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
                 <location>
                   <staves>-3</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><i>End of the Main Theme</i></text>
               </SystemText>
@@ -403462,7 +403568,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
                 <location>
                   <staves>-4</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b>a tempo (</b><font face="ScoreText"></font><b><font face="Edwin"></font> = 128)</b></text>
               </Tempo>
@@ -403471,7 +403577,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
                 <location>
                   <staves>-4</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><i>End of the Main Theme</i></text>
               </SystemText>
@@ -416666,7 +416772,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
                 <location>
                   <staves>-5</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b>a tempo (</b><font face="ScoreText"></font><b><font face="Edwin"></font> = 128)</b></text>
               </Tempo>
@@ -416675,7 +416781,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
                 <location>
                   <staves>-5</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><i>End of the Main Theme</i></text>
               </SystemText>
@@ -429737,7 +429843,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
                 <location>
                   <staves>-6</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b>a tempo (</b><font face="ScoreText"></font><b><font face="Edwin"></font> = 128)</b></text>
               </Tempo>
@@ -429746,7 +429852,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
                 <location>
                   <staves>-6</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><i>End of the Main Theme</i></text>
               </SystemText>
@@ -441659,7 +441765,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
                 <location>
                   <staves>-7</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b>a tempo (</b><font face="ScoreText"></font><b><font face="Edwin"></font> = 128)</b></text>
               </Tempo>
@@ -441668,7 +441774,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
                 <location>
                   <staves>-7</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><i>End of the Main Theme</i></text>
               </SystemText>
@@ -453036,7 +453142,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
                 <location>
                   <staves>-8</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b>a tempo (</b><font face="ScoreText"></font><b><font face="Edwin"></font> = 128)</b></text>
               </Tempo>
@@ -453045,7 +453151,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
                 <location>
                   <staves>-8</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><i>End of the Main Theme</i></text>
               </SystemText>
@@ -465348,7 +465454,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
                 <location>
                   <staves>-9</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b>a tempo (</b><font face="ScoreText"></font><b><font face="Edwin"></font> = 128)</b></text>
               </Tempo>
@@ -465357,7 +465463,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
                 <location>
                   <staves>-9</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><i>End of the Main Theme</i></text>
               </SystemText>
@@ -465380,7 +465486,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
                 <location>
                   <staves>-9</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b>a tempo (</b><font face="ScoreText"></font><b><font face="Edwin"></font> = 128)</b></text>
               </Tempo>
@@ -465389,7 +465495,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
                 <location>
                   <staves>-9</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><i>End of the Main Theme</i></text>
               </SystemText>
@@ -479280,7 +479386,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
                 <location>
                   <staves>-10</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b>a tempo (</b><font face="ScoreText"></font><b><font face="Edwin"></font> = 128)</b></text>
               </Tempo>
@@ -479289,7 +479395,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
                 <location>
                   <staves>-10</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><i>End of the Main Theme</i></text>
               </SystemText>
@@ -491571,7 +491677,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
                 <location>
                   <staves>-11</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b>a tempo (</b><font face="ScoreText"></font><b><font face="Edwin"></font> = 128)</b></text>
               </Tempo>
@@ -491580,7 +491686,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
                 <location>
                   <staves>-11</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><i>End of the Main Theme</i></text>
               </SystemText>
@@ -502407,7 +502513,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
                 <location>
                   <staves>-12</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b>a tempo (</b><font face="ScoreText"></font><b><font face="Edwin"></font> = 128)</b></text>
               </Tempo>
@@ -502416,7 +502522,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
                 <location>
                   <staves>-12</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><i>End of the Main Theme</i></text>
               </SystemText>
@@ -523893,7 +523999,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
                 <location>
                   <staves>-13</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b>a tempo (</b><font face="ScoreText"></font><b><font face="Edwin"></font> = 128)</b></text>
               </Tempo>
@@ -523902,7 +524008,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
                 <location>
                   <staves>-13</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><i>End of the Main Theme</i></text>
               </SystemText>
@@ -528994,6 +529100,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             <BarLine>
               <subtype>double</subtype>
               <linked>
+                <indexDiff>1</indexDiff>
                 </linked>
               </BarLine>
             </voice>
@@ -529676,6 +529783,12 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
               <durationType>measure</durationType>
               <duration>4/4</duration>
               </Rest>
+            <Breath>
+              <symbol>caesura</symbol>
+              <pause>2</pause>
+              <linked>
+                </linked>
+              </Breath>
             <BarLine>
               <subtype>double</subtype>
               <linked>
@@ -529716,7 +529829,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
               </SystemText>
             <Rest>
               <linked>
-                <indexDiff>1</indexDiff>
+                <indexDiff>2</indexDiff>
                 </linked>
               <durationType>measure</durationType>
               <duration>4/4</duration>
@@ -529937,7 +530050,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
                 <location>
                   <staves>-14</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b>a tempo (</b><font face="ScoreText"></font><b><font face="Edwin"></font> = 128)</b></text>
               </Tempo>
@@ -529946,7 +530059,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
                 <location>
                   <staves>-14</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><i>End of the Main Theme</i></text>
               </SystemText>
@@ -529969,7 +530082,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
                 <location>
                   <staves>-14</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b>a tempo (</b><font face="ScoreText"></font><b><font face="Edwin"></font> = 128)</b></text>
               </Tempo>
@@ -529978,7 +530091,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
                 <location>
                   <staves>-14</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><i>End of the Main Theme</i></text>
               </SystemText>
@@ -538999,6 +539112,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             <BarLine>
               <subtype>double</subtype>
               <linked>
+                <indexDiff>1</indexDiff>
                 </linked>
               </BarLine>
             </voice>
@@ -539671,6 +539785,12 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
               <durationType>measure</durationType>
               <duration>4/4</duration>
               </Rest>
+            <Breath>
+              <symbol>caesura</symbol>
+              <pause>2</pause>
+              <linked>
+                </linked>
+              </Breath>
             <BarLine>
               <subtype>double</subtype>
               <linked>
@@ -539711,7 +539831,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
               </SystemText>
             <Rest>
               <linked>
-                <indexDiff>1</indexDiff>
+                <indexDiff>2</indexDiff>
                 </linked>
               <durationType>measure</durationType>
               <duration>4/4</duration>
@@ -539932,7 +540052,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
                 <location>
                   <staves>-15</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b>a tempo (</b><font face="ScoreText"></font><b><font face="Edwin"></font> = 128)</b></text>
               </Tempo>
@@ -539941,7 +540061,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
                 <location>
                   <staves>-15</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><i>End of the Main Theme</i></text>
               </SystemText>
@@ -553591,6 +553711,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             <BarLine>
               <subtype>double</subtype>
               <linked>
+                <indexDiff>1</indexDiff>
                 </linked>
               </BarLine>
             </voice>
@@ -554273,6 +554394,12 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
               <durationType>measure</durationType>
               <duration>4/4</duration>
               </Rest>
+            <Breath>
+              <symbol>caesura</symbol>
+              <pause>2</pause>
+              <linked>
+                </linked>
+              </Breath>
             <BarLine>
               <subtype>double</subtype>
               <linked>
@@ -554313,7 +554440,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
               </SystemText>
             <Rest>
               <linked>
-                <indexDiff>1</indexDiff>
+                <indexDiff>2</indexDiff>
                 </linked>
               <durationType>measure</durationType>
               <duration>4/4</duration>
@@ -554534,7 +554661,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
                 <location>
                   <staves>-16</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b>a tempo (</b><font face="ScoreText"></font><b><font face="Edwin"></font> = 128)</b></text>
               </Tempo>
@@ -554543,7 +554670,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
                 <location>
                   <staves>-16</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><i>End of the Main Theme</i></text>
               </SystemText>
@@ -564064,6 +564191,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             <BarLine>
               <subtype>double</subtype>
               <linked>
+                <indexDiff>1</indexDiff>
                 </linked>
               </BarLine>
             </voice>
@@ -564746,6 +564874,12 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
               <durationType>measure</durationType>
               <duration>4/4</duration>
               </Rest>
+            <Breath>
+              <symbol>caesura</symbol>
+              <pause>2</pause>
+              <linked>
+                </linked>
+              </Breath>
             <BarLine>
               <subtype>double</subtype>
               <linked>
@@ -564786,7 +564920,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
               </SystemText>
             <Rest>
               <linked>
-                <indexDiff>1</indexDiff>
+                <indexDiff>2</indexDiff>
                 </linked>
               <durationType>measure</durationType>
               <duration>4/4</duration>
@@ -565007,7 +565141,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
                 <location>
                   <staves>-17</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b>a tempo (</b><font face="ScoreText"></font><b><font face="Edwin"></font> = 128)</b></text>
               </Tempo>
@@ -565016,7 +565150,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
                 <location>
                   <staves>-17</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><i>End of the Main Theme</i></text>
               </SystemText>
@@ -575576,7 +575710,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
                 <location>
                   <staves>-18</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b>a tempo (</b><font face="ScoreText"></font><b><font face="Edwin"></font> = 128)</b></text>
               </Tempo>
@@ -575585,7 +575719,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
                 <location>
                   <staves>-18</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><i>End of the Main Theme</i></text>
               </SystemText>
@@ -583055,7 +583189,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
                 <location>
                   <staves>-19</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b>a tempo (</b><font face="ScoreText"></font><b><font face="Edwin"></font> = 128)</b></text>
               </Tempo>
@@ -583064,7 +583198,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
                 <location>
                   <staves>-19</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><i>End of the Main Theme</i></text>
               </SystemText>
@@ -583087,7 +583221,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
                 <location>
                   <staves>-19</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b>a tempo (</b><font face="ScoreText"></font><b><font face="Edwin"></font> = 128)</b></text>
               </Tempo>
@@ -583096,7 +583230,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
                 <location>
                   <staves>-19</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><i>End of the Main Theme</i></text>
               </SystemText>
@@ -600562,7 +600696,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
                 <location>
                   <staves>-20</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b>a tempo (</b><font face="ScoreText"></font><b><font face="Edwin"></font> = 128)</b></text>
               </Tempo>
@@ -600571,7 +600705,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
                 <location>
                   <staves>-20</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><i>End of the Main Theme</i></text>
               </SystemText>
@@ -617793,7 +617927,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
                 <location>
                   <staves>-21</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b>a tempo (</b><font face="ScoreText"></font><b><font face="Edwin"></font> = 128)</b></text>
               </Tempo>
@@ -617802,7 +617936,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
                 <location>
                   <staves>-21</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><i>End of the Main Theme</i></text>
               </SystemText>
@@ -635644,7 +635778,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
                 <location>
                   <staves>-22</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b>a tempo (</b><font face="ScoreText"></font><b><font face="Edwin"></font> = 128)</b></text>
               </Tempo>
@@ -635653,7 +635787,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
                 <location>
                   <staves>-22</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><i>End of the Main Theme</i></text>
               </SystemText>
@@ -652955,7 +653089,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
                 <location>
                   <staves>-23</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b>a tempo (</b><font face="ScoreText"></font><b><font face="Edwin"></font> = 128)</b></text>
               </Tempo>
@@ -652964,7 +653098,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
                 <location>
                   <staves>-23</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><i>End of the Main Theme</i></text>
               </SystemText>
@@ -668593,7 +668727,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
                 <location>
                   <staves>-24</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b>a tempo (</b><font face="ScoreText"></font><b><font face="Edwin"></font> = 128)</b></text>
               </Tempo>
@@ -668602,7 +668736,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
                 <location>
                   <staves>-24</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><i>End of the Main Theme</i></text>
               </SystemText>
@@ -674975,8 +675109,8 @@ Zane Wang</text>
               </Rest>
             </voice>
           </Measure>
-        <Measure len="88/4">
-          <multiMeasureRest>22</multiMeasureRest>
+        <Measure len="84/4">
+          <multiMeasureRest>21</multiMeasureRest>
           <voice>
             <SystemText>
               <linked>
@@ -674991,9 +675125,15 @@ Zane Wang</text>
               <durationType>measure</durationType>
               <duration>88/4</duration>
               </Rest>
+            <location>
+              <fractions>-1/1</fractions>
+              </location>
             <BarLine>
               <subtype>double</subtype>
               <linked>
+                <location>
+                  <fractions>1/1</fractions>
+                  </location>
                 <indexDiff>1</indexDiff>
                 </linked>
               </BarLine>
@@ -675201,6 +675341,11 @@ Zane Wang</text>
           </Measure>
         <Measure>
           <voice>
+            <Fermata>
+              <subtype>fermataAbove</subtype>
+              <linked>
+                </linked>
+              </Fermata>
             <Rest>
               <linked>
                 </linked>
@@ -689716,7 +689861,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
                 <location>
                   <staves>-25</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b>a tempo (</b><font face="ScoreText"></font><b><font face="Edwin"></font> = 128)</b></text>
               </Tempo>
@@ -689725,7 +689870,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
                 <location>
                   <staves>-25</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><i>End of the Main Theme</i></text>
               </SystemText>
@@ -698406,16 +698551,22 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
               </Rest>
             </voice>
           </Measure>
-        <Measure len="88/4">
-          <multiMeasureRest>22</multiMeasureRest>
+        <Measure len="84/4">
+          <multiMeasureRest>21</multiMeasureRest>
           <voice>
             <Rest>
               <durationType>measure</durationType>
               <duration>88/4</duration>
               </Rest>
+            <location>
+              <fractions>-1/1</fractions>
+              </location>
             <BarLine>
               <subtype>double</subtype>
               <linked>
+                <location>
+                  <fractions>1/1</fractions>
+                  </location>
                 <indexDiff>1</indexDiff>
                 </linked>
               </BarLine>
@@ -698623,6 +698774,11 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
           </Measure>
         <Measure>
           <voice>
+            <Fermata>
+              <subtype>fermataAbove</subtype>
+              <linked>
+                </linked>
+              </Fermata>
             <Rest>
               <linked>
                 </linked>
@@ -718884,16 +719040,22 @@ Zane Wang</text>
               </Rest>
             </voice>
           </Measure>
-        <Measure len="40/4">
-          <multiMeasureRest>10</multiMeasureRest>
+        <Measure len="36/4">
+          <multiMeasureRest>9</multiMeasureRest>
           <voice>
             <Rest>
               <durationType>measure</durationType>
               <duration>40/4</duration>
               </Rest>
+            <location>
+              <fractions>-1/1</fractions>
+              </location>
             <BarLine>
               <subtype>double</subtype>
               <linked>
+                <location>
+                  <fractions>1/1</fractions>
+                  </location>
                 <indexDiff>1</indexDiff>
                 </linked>
               </BarLine>
@@ -718981,6 +719143,11 @@ Zane Wang</text>
           </Measure>
         <Measure>
           <voice>
+            <Fermata>
+              <subtype>fermataAbove</subtype>
+              <linked>
+                </linked>
+              </Fermata>
             <Rest>
               <linked>
                 </linked>
@@ -722996,7 +723163,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
                 <location>
                   <staves>-27</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b>a tempo (</b><font face="ScoreText"></font><b><font face="Edwin"></font> = 128)</b></text>
               </Tempo>
@@ -723005,7 +723172,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
                 <location>
                   <staves>-27</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><i>End of the Main Theme</i></text>
               </SystemText>
@@ -727948,16 +728115,22 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
               </Rest>
             </voice>
           </Measure>
-        <Measure len="40/4">
-          <multiMeasureRest>10</multiMeasureRest>
+        <Measure len="36/4">
+          <multiMeasureRest>9</multiMeasureRest>
           <voice>
             <Rest>
               <durationType>measure</durationType>
               <duration>40/4</duration>
               </Rest>
+            <location>
+              <fractions>-1/1</fractions>
+              </location>
             <BarLine>
               <subtype>double</subtype>
               <linked>
+                <location>
+                  <fractions>1/1</fractions>
+                  </location>
                 <indexDiff>1</indexDiff>
                 </linked>
               </BarLine>
@@ -728045,6 +728218,11 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
           </Measure>
         <Measure>
           <voice>
+            <Fermata>
+              <subtype>fermataAbove</subtype>
+              <linked>
+                </linked>
+              </Fermata>
             <Rest>
               <linked>
                 </linked>
@@ -738645,8 +738823,8 @@ Zane Wang</text>
               </Rest>
             </voice>
           </Measure>
-        <Measure len="88/4">
-          <multiMeasureRest>22</multiMeasureRest>
+        <Measure len="84/4">
+          <multiMeasureRest>21</multiMeasureRest>
           <voice>
             <SystemText>
               <linked>
@@ -738661,9 +738839,15 @@ Zane Wang</text>
               <durationType>measure</durationType>
               <duration>88/4</duration>
               </Rest>
+            <location>
+              <fractions>-1/1</fractions>
+              </location>
             <BarLine>
               <subtype>double</subtype>
               <linked>
+                <location>
+                  <fractions>1/1</fractions>
+                  </location>
                 <indexDiff>1</indexDiff>
                 </linked>
               </BarLine>
@@ -738871,6 +739055,11 @@ Zane Wang</text>
           </Measure>
         <Measure>
           <voice>
+            <Fermata>
+              <subtype>fermataAbove</subtype>
+              <linked>
+                </linked>
+              </Fermata>
             <Rest>
               <linked>
                 </linked>
@@ -740574,7 +740763,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
                 <location>
                   <staves>-29</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b>a tempo (</b><font face="ScoreText"></font><b><font face="Edwin"></font> = 128)</b></text>
               </Tempo>
@@ -740583,7 +740772,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
                 <location>
                   <staves>-29</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><i>End of the Main Theme</i></text>
               </SystemText>
