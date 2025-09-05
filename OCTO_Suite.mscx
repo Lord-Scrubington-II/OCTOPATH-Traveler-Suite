@@ -4954,6 +4954,11 @@ Zane Wang</text>
             <durationType>measure</durationType>
             <duration>4/4</duration>
             </Rest>
+          <Breath>
+            <symbol>caesura</symbol>
+            <pause>2</pause>
+            <linkedMain/>
+            </Breath>
           <BarLine>
             <subtype>double</subtype>
             <linkedMain/>
@@ -339583,6 +339588,7 @@ Zane Wang</text>
             <BarLine>
               <subtype>double</subtype>
               <linked>
+                <indexDiff>1</indexDiff>
                 </linked>
               </BarLine>
             </voice>
@@ -339640,6 +339646,12 @@ Zane Wang</text>
               <durationType>measure</durationType>
               <duration>4/4</duration>
               </Rest>
+            <Breath>
+              <symbol>caesura</symbol>
+              <pause>2</pause>
+              <linked>
+                </linked>
+              </Breath>
             <BarLine>
               <subtype>double</subtype>
               <linked>
@@ -352140,7 +352152,7 @@ Zane Wang</text>
                 <location>
                   <staves>-1</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b>Mvt. 2 - </b><i>Atlasdam, Seat of Learning</i></text>
               </SystemText>
@@ -352151,7 +352163,7 @@ Zane Wang</text>
                 <location>
                   <staves>-1</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 78</b></text>
               </Tempo>
@@ -352172,7 +352184,7 @@ Zane Wang</text>
                 <location>
                   <staves>-1</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b>Mvt. 2 - </b><i>Atlasdam, Seat of Learning</i></text>
               </SystemText>
@@ -352183,7 +352195,7 @@ Zane Wang</text>
                 <location>
                   <staves>-1</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 78</b></text>
               </Tempo>
@@ -366137,7 +366149,7 @@ Zane Wang</text>
                 <location>
                   <staves>-2</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b>Mvt. 2 - </b><i>Atlasdam, Seat of Learning</i></text>
               </SystemText>
@@ -366148,7 +366160,7 @@ Zane Wang</text>
                 <location>
                   <staves>-2</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 78</b></text>
               </Tempo>
@@ -366169,7 +366181,7 @@ Zane Wang</text>
                 <location>
                   <staves>-2</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b>Mvt. 2 - </b><i>Atlasdam, Seat of Learning</i></text>
               </SystemText>
@@ -366180,7 +366192,7 @@ Zane Wang</text>
                 <location>
                   <staves>-2</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 78</b></text>
               </Tempo>
@@ -380905,7 +380917,7 @@ Zane Wang</text>
                 <location>
                   <staves>-3</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b>Mvt. 2 - </b><i>Atlasdam, Seat of Learning</i></text>
               </SystemText>
@@ -380916,7 +380928,7 @@ Zane Wang</text>
                 <location>
                   <staves>-3</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 78</b></text>
               </Tempo>
@@ -380937,7 +380949,7 @@ Zane Wang</text>
                 <location>
                   <staves>-3</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b>Mvt. 2 - </b><i>Atlasdam, Seat of Learning</i></text>
               </SystemText>
@@ -380948,7 +380960,7 @@ Zane Wang</text>
                 <location>
                   <staves>-3</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 78</b></text>
               </Tempo>
@@ -395708,7 +395720,7 @@ Zane Wang</text>
                 <location>
                   <staves>-4</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b>Mvt. 2 - </b><i>Atlasdam, Seat of Learning</i></text>
               </SystemText>
@@ -395719,7 +395731,7 @@ Zane Wang</text>
                 <location>
                   <staves>-4</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 78</b></text>
               </Tempo>
@@ -395740,7 +395752,7 @@ Zane Wang</text>
                 <location>
                   <staves>-4</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b>Mvt. 2 - </b><i>Atlasdam, Seat of Learning</i></text>
               </SystemText>
@@ -395751,7 +395763,7 @@ Zane Wang</text>
                 <location>
                   <staves>-4</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 78</b></text>
               </Tempo>
@@ -410078,7 +410090,7 @@ Zane Wang</text>
                 <location>
                   <staves>-5</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b>Mvt. 2 - </b><i>Atlasdam, Seat of Learning</i></text>
               </SystemText>
@@ -410089,7 +410101,7 @@ Zane Wang</text>
                 <location>
                   <staves>-5</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 78</b></text>
               </Tempo>
@@ -410110,7 +410122,7 @@ Zane Wang</text>
                 <location>
                   <staves>-5</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b>Mvt. 2 - </b><i>Atlasdam, Seat of Learning</i></text>
               </SystemText>
@@ -410121,7 +410133,7 @@ Zane Wang</text>
                 <location>
                   <staves>-5</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 78</b></text>
               </Tempo>
@@ -422897,7 +422909,7 @@ Zane Wang</text>
                 <location>
                   <staves>-6</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b>Mvt. 2 - </b><i>Atlasdam, Seat of Learning</i></text>
               </SystemText>
@@ -422908,7 +422920,7 @@ Zane Wang</text>
                 <location>
                   <staves>-6</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 78</b></text>
               </Tempo>
@@ -422929,7 +422941,7 @@ Zane Wang</text>
                 <location>
                   <staves>-6</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b>Mvt. 2 - </b><i>Atlasdam, Seat of Learning</i></text>
               </SystemText>
@@ -422940,7 +422952,7 @@ Zane Wang</text>
                 <location>
                   <staves>-6</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 78</b></text>
               </Tempo>
@@ -435552,7 +435564,7 @@ Zane Wang</text>
                 <location>
                   <staves>-7</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b>Mvt. 2 - </b><i>Atlasdam, Seat of Learning</i></text>
               </SystemText>
@@ -435563,7 +435575,7 @@ Zane Wang</text>
                 <location>
                   <staves>-7</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 78</b></text>
               </Tempo>
@@ -435584,7 +435596,7 @@ Zane Wang</text>
                 <location>
                   <staves>-7</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b>Mvt. 2 - </b><i>Atlasdam, Seat of Learning</i></text>
               </SystemText>
@@ -435595,7 +435607,7 @@ Zane Wang</text>
                 <location>
                   <staves>-7</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 78</b></text>
               </Tempo>
@@ -446970,7 +446982,7 @@ Zane Wang</text>
                 <location>
                   <staves>-8</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b>Mvt. 2 - </b><i>Atlasdam, Seat of Learning</i></text>
               </SystemText>
@@ -446981,7 +446993,7 @@ Zane Wang</text>
                 <location>
                   <staves>-8</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 78</b></text>
               </Tempo>
@@ -447002,7 +447014,7 @@ Zane Wang</text>
                 <location>
                   <staves>-8</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b>Mvt. 2 - </b><i>Atlasdam, Seat of Learning</i></text>
               </SystemText>
@@ -447013,7 +447025,7 @@ Zane Wang</text>
                 <location>
                   <staves>-8</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 78</b></text>
               </Tempo>
@@ -458073,7 +458085,7 @@ Zane Wang</text>
                 <location>
                   <staves>-9</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b>Mvt. 2 - </b><i>Atlasdam, Seat of Learning</i></text>
               </SystemText>
@@ -458084,7 +458096,7 @@ Zane Wang</text>
                 <location>
                   <staves>-9</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 78</b></text>
               </Tempo>
@@ -458105,7 +458117,7 @@ Zane Wang</text>
                 <location>
                   <staves>-9</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b>Mvt. 2 - </b><i>Atlasdam, Seat of Learning</i></text>
               </SystemText>
@@ -458116,7 +458128,7 @@ Zane Wang</text>
                 <location>
                   <staves>-9</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 78</b></text>
               </Tempo>
@@ -471869,7 +471881,7 @@ Zane Wang</text>
                 <location>
                   <staves>-10</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b>Mvt. 2 - </b><i>Atlasdam, Seat of Learning</i></text>
               </SystemText>
@@ -471880,7 +471892,7 @@ Zane Wang</text>
                 <location>
                   <staves>-10</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 78</b></text>
               </Tempo>
@@ -471901,7 +471913,7 @@ Zane Wang</text>
                 <location>
                   <staves>-10</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b>Mvt. 2 - </b><i>Atlasdam, Seat of Learning</i></text>
               </SystemText>
@@ -471912,7 +471924,7 @@ Zane Wang</text>
                 <location>
                   <staves>-10</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 78</b></text>
               </Tempo>
@@ -484575,7 +484587,7 @@ Zane Wang</text>
                 <location>
                   <staves>-11</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b>Mvt. 2 - </b><i>Atlasdam, Seat of Learning</i></text>
               </SystemText>
@@ -484586,7 +484598,7 @@ Zane Wang</text>
                 <location>
                   <staves>-11</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 78</b></text>
               </Tempo>
@@ -484607,7 +484619,7 @@ Zane Wang</text>
                 <location>
                   <staves>-11</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b>Mvt. 2 - </b><i>Atlasdam, Seat of Learning</i></text>
               </SystemText>
@@ -484618,7 +484630,7 @@ Zane Wang</text>
                 <location>
                   <staves>-11</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 78</b></text>
               </Tempo>
@@ -496299,7 +496311,7 @@ Zane Wang</text>
                 <location>
                   <staves>-12</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b>Mvt. 2 - </b><i>Atlasdam, Seat of Learning</i></text>
               </SystemText>
@@ -496310,7 +496322,7 @@ Zane Wang</text>
                 <location>
                   <staves>-12</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 78</b></text>
               </Tempo>
@@ -496331,7 +496343,7 @@ Zane Wang</text>
                 <location>
                   <staves>-12</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b>Mvt. 2 - </b><i>Atlasdam, Seat of Learning</i></text>
               </SystemText>
@@ -496342,7 +496354,7 @@ Zane Wang</text>
                 <location>
                   <staves>-12</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 78</b></text>
               </Tempo>
@@ -508412,7 +508424,7 @@ Zane Wang</text>
                 <location>
                   <staves>-13</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b>Mvt. 2 - </b><i>Atlasdam, Seat of Learning</i></text>
               </SystemText>
@@ -508423,7 +508435,7 @@ Zane Wang</text>
                 <location>
                   <staves>-13</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 78</b></text>
               </Tempo>
@@ -527903,7 +527915,7 @@ Zane Wang</text>
                 <location>
                   <staves>-14</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b>Mvt. 2 - </b><i>Atlasdam, Seat of Learning</i></text>
               </SystemText>
@@ -527914,7 +527926,7 @@ Zane Wang</text>
                 <location>
                   <staves>-14</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 78</b></text>
               </Tempo>
@@ -527935,7 +527947,7 @@ Zane Wang</text>
                 <location>
                   <staves>-14</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b>Mvt. 2 - </b><i>Atlasdam, Seat of Learning</i></text>
               </SystemText>
@@ -527946,7 +527958,7 @@ Zane Wang</text>
                 <location>
                   <staves>-14</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 78</b></text>
               </Tempo>
@@ -535062,7 +535074,7 @@ Zane Wang</text>
                 <location>
                   <staves>-15</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b>Mvt. 2 - </b><i>Atlasdam, Seat of Learning</i></text>
               </SystemText>
@@ -535073,7 +535085,7 @@ Zane Wang</text>
                 <location>
                   <staves>-15</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 78</b></text>
               </Tempo>
@@ -548854,7 +548866,7 @@ Zane Wang</text>
                 <location>
                   <staves>-16</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b>Mvt. 2 - </b><i>Atlasdam, Seat of Learning</i></text>
               </SystemText>
@@ -548865,7 +548877,7 @@ Zane Wang</text>
                 <location>
                   <staves>-16</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 78</b></text>
               </Tempo>
@@ -548886,7 +548898,7 @@ Zane Wang</text>
                 <location>
                   <staves>-16</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b>Mvt. 2 - </b><i>Atlasdam, Seat of Learning</i></text>
               </SystemText>
@@ -548897,7 +548909,7 @@ Zane Wang</text>
                 <location>
                   <staves>-16</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 78</b></text>
               </Tempo>
@@ -561243,7 +561255,7 @@ Zane Wang</text>
                 <location>
                   <staves>-17</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b>Mvt. 2 - </b><i>Atlasdam, Seat of Learning</i></text>
               </SystemText>
@@ -561254,7 +561266,7 @@ Zane Wang</text>
                 <location>
                   <staves>-17</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 78</b></text>
               </Tempo>
@@ -561275,7 +561287,7 @@ Zane Wang</text>
                 <location>
                   <staves>-17</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b>Mvt. 2 - </b><i>Atlasdam, Seat of Learning</i></text>
               </SystemText>
@@ -561286,7 +561298,7 @@ Zane Wang</text>
                 <location>
                   <staves>-17</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 78</b></text>
               </Tempo>
@@ -571161,7 +571173,7 @@ Zane Wang</text>
                 <location>
                   <staves>-18</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b>Mvt. 2 - </b><i>Atlasdam, Seat of Learning</i></text>
               </SystemText>
@@ -571172,7 +571184,7 @@ Zane Wang</text>
                 <location>
                   <staves>-18</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 78</b></text>
               </Tempo>
@@ -571193,7 +571205,7 @@ Zane Wang</text>
                 <location>
                   <staves>-18</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b>Mvt. 2 - </b><i>Atlasdam, Seat of Learning</i></text>
               </SystemText>
@@ -571204,7 +571216,7 @@ Zane Wang</text>
                 <location>
                   <staves>-18</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 78</b></text>
               </Tempo>
@@ -579138,7 +579150,7 @@ Zane Wang</text>
                 <location>
                   <staves>-19</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b>Mvt. 2 - </b><i>Atlasdam, Seat of Learning</i></text>
               </SystemText>
@@ -579149,7 +579161,7 @@ Zane Wang</text>
                 <location>
                   <staves>-19</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 78</b></text>
               </Tempo>
@@ -579170,7 +579182,7 @@ Zane Wang</text>
                 <location>
                   <staves>-19</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b>Mvt. 2 - </b><i>Atlasdam, Seat of Learning</i></text>
               </SystemText>
@@ -579181,7 +579193,7 @@ Zane Wang</text>
                 <location>
                   <staves>-19</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 78</b></text>
               </Tempo>
@@ -590013,7 +590025,7 @@ Zane Wang</text>
                 <location>
                   <staves>-20</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b>Mvt. 2 - </b><i>Atlasdam, Seat of Learning</i></text>
               </SystemText>
@@ -590024,7 +590036,7 @@ Zane Wang</text>
                 <location>
                   <staves>-20</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 78</b></text>
               </Tempo>
@@ -608328,7 +608340,7 @@ Zane Wang</text>
                 <location>
                   <staves>-21</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b>Mvt. 2 - </b><i>Atlasdam, Seat of Learning</i></text>
               </SystemText>
@@ -608339,7 +608351,7 @@ Zane Wang</text>
                 <location>
                   <staves>-21</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 78</b></text>
               </Tempo>
@@ -624970,7 +624982,7 @@ Zane Wang</text>
                 <location>
                   <staves>-22</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b>Mvt. 2 - </b><i>Atlasdam, Seat of Learning</i></text>
               </SystemText>
@@ -624981,7 +624993,7 @@ Zane Wang</text>
                 <location>
                   <staves>-22</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 78</b></text>
               </Tempo>
@@ -641908,7 +641920,7 @@ Zane Wang</text>
                 <location>
                   <staves>-23</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b>Mvt. 2 - </b><i>Atlasdam, Seat of Learning</i></text>
               </SystemText>
@@ -641919,7 +641931,7 @@ Zane Wang</text>
                 <location>
                   <staves>-23</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 78</b></text>
               </Tempo>
@@ -658521,7 +658533,7 @@ Zane Wang</text>
                 <location>
                   <staves>-24</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b>Mvt. 2 - </b><i>Atlasdam, Seat of Learning</i></text>
               </SystemText>
@@ -658532,7 +658544,7 @@ Zane Wang</text>
                 <location>
                   <staves>-24</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 78</b></text>
               </Tempo>
@@ -674821,7 +674833,7 @@ Zane Wang</text>
                 <location>
                   <staves>-25</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b>Mvt. 2 - </b><i>Atlasdam, Seat of Learning</i></text>
               </SystemText>
@@ -674832,7 +674844,7 @@ Zane Wang</text>
                 <location>
                   <staves>-25</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 78</b></text>
               </Tempo>
@@ -674853,7 +674865,7 @@ Zane Wang</text>
                 <location>
                   <staves>-25</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b>Mvt. 2 - </b><i>Atlasdam, Seat of Learning</i></text>
               </SystemText>
@@ -674864,7 +674876,7 @@ Zane Wang</text>
                 <location>
                   <staves>-25</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 78</b></text>
               </Tempo>
@@ -717760,7 +717772,7 @@ Zane Wang</text>
                 <location>
                   <staves>-27</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b>Mvt. 2 - </b><i>Atlasdam, Seat of Learning</i></text>
               </SystemText>
@@ -717771,7 +717783,7 @@ Zane Wang</text>
                 <location>
                   <staves>-27</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 78</b></text>
               </Tempo>
@@ -717792,7 +717804,7 @@ Zane Wang</text>
                 <location>
                   <staves>-27</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b>Mvt. 2 - </b><i>Atlasdam, Seat of Learning</i></text>
               </SystemText>
@@ -717803,7 +717815,7 @@ Zane Wang</text>
                 <location>
                   <staves>-27</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 78</b></text>
               </Tempo>
@@ -738482,7 +738494,7 @@ Zane Wang</text>
                 <location>
                   <staves>-29</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b>Mvt. 2 - </b><i>Atlasdam, Seat of Learning</i></text>
               </SystemText>
@@ -738493,7 +738505,7 @@ Zane Wang</text>
                 <location>
                   <staves>-29</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 78</b></text>
               </Tempo>
@@ -738514,7 +738526,7 @@ Zane Wang</text>
                 <location>
                   <staves>-29</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b>Mvt. 2 - </b><i>Atlasdam, Seat of Learning</i></text>
               </SystemText>
@@ -738525,7 +738537,7 @@ Zane Wang</text>
                 <location>
                   <staves>-29</staves>
                   </location>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 78</b></text>
               </Tempo>
