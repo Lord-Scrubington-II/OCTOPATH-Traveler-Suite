@@ -21291,6 +21291,11 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             <linkedMain/>
             <durationType>half</durationType>
             </Rest>
+          <Dynamic>
+            <subtype>mp</subtype>
+            <velocity>64</velocity>
+            <linkedMain/>
+            </Dynamic>
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
@@ -359273,6 +359278,12 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
                 </linked>
               <durationType>half</durationType>
               </Rest>
+            <Dynamic>
+              <subtype>mp</subtype>
+              <velocity>64</velocity>
+              <linked>
+                </linked>
+              </Dynamic>
             <Spanner type="HairPin">
               <HairPin>
                 <subtype>0</subtype>
