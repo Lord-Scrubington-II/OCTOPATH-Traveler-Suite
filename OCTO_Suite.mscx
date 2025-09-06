@@ -282895,10 +282895,6 @@ accent Es slightly</text>
             <velocity>64</velocity>
             <linkedMain/>
             </Dynamic>
-          <StaffText>
-            <linkedMain/>
-            <text>quiet RH, accent LH</text>
-            </StaffText>
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
@@ -282912,6 +282908,10 @@ accent Es slightly</text>
         </Measure>
       <Measure>
         <voice>
+          <StaffText>
+            <linkedMain/>
+            <text>quiet RH, accent LH</text>
+            </StaffText>
           <Chord>
             <linkedMain/>
             <dots>1</dots>
@@ -283606,20 +283606,214 @@ accent Es slightly</text>
         </Measure>
       <Measure>
         <voice>
-          <Rest>
+          <Chord>
             <linkedMain/>
-            <durationType>measure</durationType>
-            <duration>3/4</duration>
-            </Rest>
+            <durationType>eighth</durationType>
+            <Articulation>
+              <subtype>articAccentBelow</subtype>
+              <linkedMain/>
+              </Articulation>
+            <Note>
+              <linkedMain/>
+              <Accidental>
+                <subtype>accidentalSharp</subtype>
+                </Accidental>
+              <pitch>66</pitch>
+              <tpc>20</tpc>
+              </Note>
+            <Note>
+              <linkedMain/>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
+              </Note>
+            <Note>
+              <linkedMain/>
+              <pitch>74</pitch>
+              <tpc>16</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <linkedMain/>
+            <durationType>eighth</durationType>
+            <Articulation>
+              <subtype>articAccentBelow</subtype>
+              <linkedMain/>
+              </Articulation>
+            <Note>
+              <linkedMain/>
+              <pitch>66</pitch>
+              <tpc>20</tpc>
+              </Note>
+            <Note>
+              <linkedMain/>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
+              </Note>
+            <Note>
+              <linkedMain/>
+              <pitch>74</pitch>
+              <tpc>16</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <linkedMain/>
+            <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articAccentBelow</subtype>
+              <linkedMain/>
+              </Articulation>
+            <Note>
+              <linkedMain/>
+              <pitch>66</pitch>
+              <tpc>20</tpc>
+              </Note>
+            <Note>
+              <linkedMain/>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
+              </Note>
+            <Note>
+              <linkedMain/>
+              <pitch>74</pitch>
+              <tpc>16</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <linkedMain/>
+            <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articTenutoAbove</subtype>
+              <linkedMain/>
+              </Articulation>
+            <Articulation>
+              <subtype>articAccentAbove</subtype>
+              <linkedMain/>
+              </Articulation>
+            <Note>
+              <linkedMain/>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              </Note>
+            <Note>
+              <linkedMain/>
+              <pitch>70</pitch>
+              <tpc>12</tpc>
+              </Note>
+            <Note>
+              <linkedMain/>
+              <pitch>75</pitch>
+              <tpc>11</tpc>
+              </Note>
+            </Chord>
           </voice>
         </Measure>
       <Measure>
         <voice>
-          <Rest>
+          <Chord>
             <linkedMain/>
-            <durationType>measure</durationType>
-            <duration>3/4</duration>
-            </Rest>
+            <durationType>eighth</durationType>
+            <Articulation>
+              <subtype>articAccentBelow</subtype>
+              <linkedMain/>
+              </Articulation>
+            <Note>
+              <linkedMain/>
+              <Accidental>
+                <subtype>accidentalSharp</subtype>
+                </Accidental>
+              <pitch>66</pitch>
+              <tpc>20</tpc>
+              </Note>
+            <Note>
+              <linkedMain/>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
+              </Note>
+            <Note>
+              <linkedMain/>
+              <pitch>74</pitch>
+              <tpc>16</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <linkedMain/>
+            <durationType>eighth</durationType>
+            <Articulation>
+              <subtype>articAccentBelow</subtype>
+              <linkedMain/>
+              </Articulation>
+            <Note>
+              <linkedMain/>
+              <pitch>66</pitch>
+              <tpc>20</tpc>
+              </Note>
+            <Note>
+              <linkedMain/>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
+              </Note>
+            <Note>
+              <linkedMain/>
+              <pitch>74</pitch>
+              <tpc>16</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <linkedMain/>
+            <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articAccentBelow</subtype>
+              <linkedMain/>
+              </Articulation>
+            <Note>
+              <linkedMain/>
+              <pitch>66</pitch>
+              <tpc>20</tpc>
+              </Note>
+            <Note>
+              <linkedMain/>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
+              </Note>
+            <Note>
+              <linkedMain/>
+              <pitch>74</pitch>
+              <tpc>16</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <linkedMain/>
+            <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>articTenutoBelow</subtype>
+              <linkedMain/>
+              </Articulation>
+            <Articulation>
+              <subtype>articAccentBelow</subtype>
+              <linkedMain/>
+              </Articulation>
+            <Note>
+              <linkedMain/>
+              <pitch>66</pitch>
+              <tpc>20</tpc>
+              </Note>
+            <Note>
+              <linkedMain/>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
+              </Note>
+            <Note>
+              <linkedMain/>
+              <pitch>74</pitch>
+              <tpc>16</tpc>
+              </Note>
+            </Chord>
           <BarLine>
             <subtype>double</subtype>
             <linkedMain/>
@@ -291300,6 +291494,11 @@ accent Es slightly</text>
             <linkedMain/>
             <durationType>eighth</durationType>
             </Rest>
+          <Harmony>
+            <root>14</root>
+            <name>m</name>
+            <linkedMain/>
+            </Harmony>
           <Tuplet>
             <linkedMain/>
             <normalNotes>2</normalNotes>
@@ -291656,6 +291855,10 @@ accent Es slightly</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>13</root>
+            <linkedMain/>
+            </Harmony>
           <Tuplet>
             <linkedMain/>
             <normalNotes>4</normalNotes>
@@ -670896,6 +671099,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <linked>
@@ -671146,6 +671352,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -671341,6 +671550,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -671590,6 +671802,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -671971,6 +672186,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Spanner type="HairPin">
               <prev>
@@ -672108,6 +672326,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <linked>
@@ -672509,6 +672730,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -672772,6 +672996,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Dynamic>
               <subtype>mf</subtype>
@@ -673077,6 +673304,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -673417,6 +673647,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -673456,6 +673689,7 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <stretch>0.5</stretch>
           <voice>
             <Chord>
               <linked>
@@ -673534,6 +673768,7 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <stretch>0.5</stretch>
           <voice>
             <Chord>
               <linked>
@@ -673586,6 +673821,7 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <stretch>0.5</stretch>
           <voice>
             <Chord>
               <linked>
@@ -674420,6 +674656,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <linked>
@@ -674816,6 +675055,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -675305,6 +675547,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -675375,6 +675620,7 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <stretch>0.9</stretch>
           <voice>
             <Rest>
               <linked>
@@ -675385,6 +675631,7 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <stretch>0.9</stretch>
           <voice>
             <Rest>
               <linked>
@@ -675395,6 +675642,7 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <stretch>0.9</stretch>
           <voice>
             <Rest>
               <linked>
@@ -675405,6 +675653,7 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <stretch>0.9</stretch>
           <voice>
             <Rest>
               <linked>
@@ -675869,6 +676118,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Fermata>
               <subtype>fermataAbove</subtype>
@@ -678127,6 +678379,9 @@ accent Es slightly</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -678349,6 +678604,9 @@ accent Es slightly</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <linked>
@@ -678817,6 +679075,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <linked>
@@ -678834,11 +679095,6 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
               <linked>
                 </linked>
               </Dynamic>
-            <StaffText>
-              <linked>
-                </linked>
-              <text>quiet RH, accent LH</text>
-              </StaffText>
             <Chord>
               <linked>
                 </linked>
@@ -678854,6 +679110,11 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
           </Measure>
         <Measure>
           <voice>
+            <StaffText>
+              <linked>
+                </linked>
+              <text>quiet RH, accent LH</text>
+              </StaffText>
             <Chord>
               <linked>
                 </linked>
@@ -679139,6 +679400,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -679459,6 +679723,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <linked>
@@ -679676,22 +679943,259 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
           </Measure>
         <Measure>
           <voice>
-            <Rest>
+            <Chord>
               <linked>
                 </linked>
-              <durationType>measure</durationType>
-              <duration>3/4</duration>
-              </Rest>
+              <durationType>eighth</durationType>
+              <Articulation>
+                <subtype>articAccentBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
+              <Note>
+                <linked>
+                  </linked>
+                <Accidental>
+                  <subtype>accidentalSharp</subtype>
+                  </Accidental>
+                <pitch>66</pitch>
+                <tpc>20</tpc>
+                </Note>
+              <Note>
+                <linked>
+                  </linked>
+                <Accidental>
+                  <subtype>accidentalNatural</subtype>
+                  </Accidental>
+                <pitch>69</pitch>
+                <tpc>17</tpc>
+                </Note>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>74</pitch>
+                <tpc>16</tpc>
+                </Note>
+              </Chord>
+            <Chord>
+              <linked>
+                </linked>
+              <durationType>eighth</durationType>
+              <Articulation>
+                <subtype>articAccentBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>66</pitch>
+                <tpc>20</tpc>
+                </Note>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>69</pitch>
+                <tpc>17</tpc>
+                </Note>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>74</pitch>
+                <tpc>16</tpc>
+                </Note>
+              </Chord>
+            <Chord>
+              <linked>
+                </linked>
+              <durationType>quarter</durationType>
+              <Articulation>
+                <subtype>articAccentBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>66</pitch>
+                <tpc>20</tpc>
+                </Note>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>69</pitch>
+                <tpc>17</tpc>
+                </Note>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>74</pitch>
+                <tpc>16</tpc>
+                </Note>
+              </Chord>
+            <Chord>
+              <linked>
+                </linked>
+              <durationType>quarter</durationType>
+              <Articulation>
+                <subtype>articTenutoAbove</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
+              <Articulation>
+                <subtype>articAccentAbove</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>67</pitch>
+                <tpc>15</tpc>
+                </Note>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>70</pitch>
+                <tpc>12</tpc>
+                </Note>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>75</pitch>
+                <tpc>11</tpc>
+                </Note>
+              </Chord>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
-            <Rest>
+            <Chord>
               <linked>
                 </linked>
-              <durationType>measure</durationType>
-              <duration>3/4</duration>
-              </Rest>
+              <durationType>eighth</durationType>
+              <Articulation>
+                <subtype>articAccentBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
+              <Note>
+                <linked>
+                  </linked>
+                <Accidental>
+                  <subtype>accidentalSharp</subtype>
+                  </Accidental>
+                <pitch>66</pitch>
+                <tpc>20</tpc>
+                </Note>
+              <Note>
+                <linked>
+                  </linked>
+                <Accidental>
+                  <subtype>accidentalNatural</subtype>
+                  </Accidental>
+                <pitch>69</pitch>
+                <tpc>17</tpc>
+                </Note>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>74</pitch>
+                <tpc>16</tpc>
+                </Note>
+              </Chord>
+            <Chord>
+              <linked>
+                </linked>
+              <durationType>eighth</durationType>
+              <Articulation>
+                <subtype>articAccentBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>66</pitch>
+                <tpc>20</tpc>
+                </Note>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>69</pitch>
+                <tpc>17</tpc>
+                </Note>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>74</pitch>
+                <tpc>16</tpc>
+                </Note>
+              </Chord>
+            <Chord>
+              <linked>
+                </linked>
+              <durationType>quarter</durationType>
+              <Articulation>
+                <subtype>articAccentBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>66</pitch>
+                <tpc>20</tpc>
+                </Note>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>69</pitch>
+                <tpc>17</tpc>
+                </Note>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>74</pitch>
+                <tpc>16</tpc>
+                </Note>
+              </Chord>
+            <Chord>
+              <linked>
+                </linked>
+              <durationType>quarter</durationType>
+              <Articulation>
+                <subtype>articTenutoBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
+              <Articulation>
+                <subtype>articAccentBelow</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>66</pitch>
+                <tpc>20</tpc>
+                </Note>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>69</pitch>
+                <tpc>17</tpc>
+                </Note>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>74</pitch>
+                <tpc>16</tpc>
+                </Note>
+              </Chord>
             <BarLine>
               <subtype>double</subtype>
               <linked>
@@ -680660,6 +681164,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -680982,6 +681489,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -681364,6 +681874,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -681669,6 +682182,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -682175,6 +682691,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Harmony>
               <root>19</root>
@@ -682328,6 +682847,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -682522,6 +683044,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Spanner type="HairPin">
               <HairPin>
@@ -682857,6 +683382,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Harmony>
               <root>13</root>
@@ -683219,6 +683747,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -683342,6 +683873,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <stretch>0.9</stretch>
           <voice>
             <StaffText>
               <linked>
@@ -683518,6 +684050,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <stretch>0.9</stretch>
           <voice>
             <Tuplet>
               <linked>
@@ -683722,6 +684255,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <stretch>0.9</stretch>
           <voice>
             <Tuplet>
               <linked>
@@ -683865,6 +684399,10 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <stretch>0.9</stretch>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -684770,6 +685308,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -685360,6 +685901,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -685397,6 +685941,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <stretch>0.8</stretch>
           <voice>
             <Spanner type="HairPin">
               <HairPin>
@@ -685593,6 +686138,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <stretch>0.8</stretch>
           <voice>
             <Tuplet>
               <linked>
@@ -685780,6 +686326,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <stretch>0.8</stretch>
           <voice>
             <Tuplet>
               <linked>
@@ -685970,6 +686517,10 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <stretch>0.8</stretch>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Tuplet>
               <linked>
@@ -686492,6 +687043,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Spanner type="Ottava">
               <Ottava>
@@ -688184,6 +688738,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <stretch>0.9</stretch>
           <voice>
             <KeySig>
               <linked>
@@ -688363,6 +688918,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <stretch>0.6</stretch>
           <voice>
             <Chord>
               <linked>
@@ -688720,6 +689276,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -688786,6 +689345,12 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
                 </linked>
               <durationType>eighth</durationType>
               </Rest>
+            <Harmony>
+              <root>14</root>
+              <name>m</name>
+              <linked>
+                </linked>
+              </Harmony>
             <Tuplet>
               <linked>
                 </linked>
@@ -689195,6 +689760,11 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
           </Measure>
         <Measure>
           <voice>
+            <Harmony>
+              <root>13</root>
+              <linked>
+                </linked>
+              </Harmony>
             <Tuplet>
               <linked>
                 </linked>
@@ -689825,6 +690395,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -690391,6 +690964,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <KeySig>
               <accidental>-4</accidental>
@@ -690543,6 +691119,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <stretch>0.9</stretch>
           <voice>
             <Spanner type="HairPin">
               <prev>
@@ -690696,6 +691273,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <stretch>0.9</stretch>
           <voice>
             <Chord>
               <linked>
@@ -690759,6 +691337,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <stretch>0.9</stretch>
           <voice>
             <Chord>
               <linked>
@@ -690896,6 +691475,10 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <stretch>0.9</stretch>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -691112,6 +691695,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <linked>
@@ -691503,6 +692089,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -691992,6 +692581,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -692361,6 +692953,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <linked>
@@ -692655,6 +693250,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
