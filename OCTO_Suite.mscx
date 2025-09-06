@@ -304401,8 +304401,11 @@ accent Es slightly</text>
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
-              <pitch>45</pitch>
-              <tpc>17</tpc>
+              <Accidental>
+                <subtype>accidentalSharp</subtype>
+                </Accidental>
+              <pitch>49</pitch>
+              <tpc>21</tpc>
               </Note>
             </Chord>
           </voice>
@@ -339165,6 +339168,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <linked>
@@ -339752,6 +339758,7 @@ Zane Wang</text>
           </Measure>
         <Measure len="32/4">
           <multiMeasureRest>8</multiMeasureRest>
+          <stretch>0.8</stretch>
           <voice>
             <SystemText>
               <linked>
@@ -339868,6 +339875,7 @@ Zane Wang</text>
           </Measure>
         <Measure len="8/4">
           <multiMeasureRest>2</multiMeasureRest>
+          <stretch>0.8</stretch>
           <voice>
             <SystemText>
               <linked>
@@ -339892,6 +339900,7 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <stretch>0.8</stretch>
           <voice>
             <Rest>
               <linked>
@@ -340285,6 +340294,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -340912,6 +340924,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Fermata>
               <subtype>fermataAbove</subtype>
@@ -341330,6 +341345,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -342194,6 +342212,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
           </Measure>
         <Measure len="108/4">
           <multiMeasureRest>27</multiMeasureRest>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <durationType>measure</durationType>
@@ -342452,6 +342473,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <linked>
@@ -343148,6 +343172,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <stretch>0.2</stretch>
           <voice>
             <Chord>
               <linked>
@@ -343192,6 +343217,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <stretch>0.2</stretch>
           <voice>
             <Chord>
               <linked>
@@ -343207,6 +343233,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <stretch>0.2</stretch>
           <voice>
             <Rest>
               <linked>
@@ -343359,6 +343386,10 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <stretch>0.6</stretch>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -344190,6 +344221,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -345623,6 +345657,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -347290,6 +347327,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Dynamic>
               <subtype>p</subtype>
@@ -347779,6 +347819,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -348395,6 +348438,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Dynamic>
               <subtype>ff</subtype>
@@ -348734,6 +348780,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -349150,6 +349199,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -349498,6 +349550,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <linked>
@@ -349743,6 +349798,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -350188,6 +350246,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Spanner type="HairPin">
               <prev>
@@ -350753,6 +350814,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -351259,6 +351323,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -351828,6 +351895,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -354350,6 +354420,9 @@ Zane Wang</text>
           </Measure>
         <Measure len="48/4">
           <multiMeasureRest>12</multiMeasureRest>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Tempo>
               <tempo>1.3333299999999999</tempo>
@@ -354478,6 +354551,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <linked>
@@ -354772,6 +354848,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <linked>
@@ -355235,6 +355314,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Fermata>
               <subtype>fermataAbove</subtype>
@@ -355742,6 +355824,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -356624,6 +356709,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
           </Measure>
         <Measure len="92/4">
           <multiMeasureRest>23</multiMeasureRest>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <durationType>measure</durationType>
@@ -356842,6 +356930,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <linked>
@@ -357148,6 +357239,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -357537,6 +357631,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
           </Measure>
         <Measure len="16/4">
           <multiMeasureRest>4</multiMeasureRest>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <durationType>measure</durationType>
@@ -357565,6 +357662,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <linked>
@@ -357820,6 +357920,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Dynamic>
               <subtype>f</subtype>
@@ -358197,6 +358300,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -358575,6 +358681,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -359035,6 +359144,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>page</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -359354,6 +359466,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <KeySig>
               <linked>
@@ -359909,6 +360024,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -360426,6 +360544,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -360961,6 +361082,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -361390,6 +361514,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <linked>
@@ -362408,6 +362535,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -362940,6 +363070,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Dynamic>
               <subtype>f</subtype>
@@ -363516,6 +363649,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -364054,6 +364190,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Spanner type="HairPin">
               <prev>
@@ -364415,6 +364554,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -364851,6 +364993,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -365336,6 +365481,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -365856,6 +366004,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -366208,6 +366359,9 @@ Zane Wang</text>
                 </location>
               </linked>
             <subtype>section</subtype>
+            </LayoutBreak>
+          <LayoutBreak>
+            <subtype>page</subtype>
             </LayoutBreak>
           <voice>
             <Rest>
@@ -366822,6 +366976,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <linked>
@@ -367229,6 +367386,9 @@ Zane Wang</text>
           </Measure>
         <Measure len="8/4">
           <multiMeasureRest>2</multiMeasureRest>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <durationType>measure</durationType>
@@ -367237,6 +367397,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <linked>
@@ -367487,6 +367650,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Dynamic>
               <subtype>p</subtype>
@@ -367942,6 +368108,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Fermata>
               <subtype>fermataAbove</subtype>
@@ -368418,6 +368587,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <linked>
@@ -368884,6 +369056,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>page</subtype>
+            </LayoutBreak>
           <voice>
             <Fermata>
               <subtype>fermataAbove</subtype>
@@ -369391,6 +369566,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -369765,6 +369943,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -370228,6 +370409,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -370793,6 +370977,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -371142,6 +371329,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -371377,6 +371567,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Dynamic>
               <subtype>f</subtype>
@@ -371543,6 +371736,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <stretch>0</stretch>
           <voice>
             <Chord>
               <linked>
@@ -371587,6 +371781,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <stretch>0</stretch>
           <voice>
             <Chord>
               <linked>
@@ -371602,6 +371797,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <stretch>0</stretch>
           <voice>
             <Rest>
               <linked>
@@ -371754,6 +371950,10 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <stretch>0.4</stretch>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -372079,6 +372279,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -372539,6 +372742,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>page</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -372858,6 +373064,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <KeySig>
               <linked>
@@ -373242,6 +373451,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -373721,6 +373933,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -374206,6 +374421,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -374726,6 +374944,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -375051,6 +375272,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <KeySig>
               <linked>
@@ -375820,6 +376044,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -377099,6 +377326,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Spanner type="HairPin">
               <HairPin>
@@ -377559,6 +377789,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -377940,6 +378173,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -378477,6 +378713,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Dynamic>
               <subtype>f</subtype>
@@ -378844,6 +379083,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Dynamic>
               <subtype>mf</subtype>
@@ -379388,6 +379630,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Spanner type="HairPin">
               <prev>
@@ -379739,6 +379984,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -380103,6 +380351,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -380623,6 +380874,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -381519,6 +381773,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -381895,6 +382152,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -382249,6 +382509,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -382678,6 +382941,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -383130,6 +383396,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Fermata>
               <subtype>fermataAbove</subtype>
@@ -383627,6 +383896,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Dynamic>
               <subtype>f</subtype>
@@ -384084,6 +384356,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Fermata>
               <subtype>fermataAbove</subtype>
@@ -384839,6 +385114,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -385216,6 +385494,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -385679,6 +385960,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -386023,6 +386307,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
           </Measure>
         <Measure len="60/4">
           <multiMeasureRest>15</multiMeasureRest>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <durationType>measure</durationType>
@@ -386161,6 +386448,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <linked>
@@ -386467,6 +386757,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -386856,6 +387149,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
           </Measure>
         <Measure len="16/4">
           <multiMeasureRest>4</multiMeasureRest>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <durationType>measure</durationType>
@@ -386884,6 +387180,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <linked>
@@ -387139,6 +387438,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Dynamic>
               <subtype>f</subtype>
@@ -387305,6 +387607,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <stretch>0.1</stretch>
           <voice>
             <Chord>
               <linked>
@@ -387328,6 +387631,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <stretch>0.1</stretch>
           <voice>
             <Chord>
               <linked>
@@ -387343,6 +387647,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <stretch>0.1</stretch>
           <voice>
             <Rest>
               <linked>
@@ -387495,6 +387800,10 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <stretch>0.4</stretch>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -387518,6 +387827,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <stretch>0.4</stretch>
           <voice>
             <Chord>
               <linked>
@@ -387799,6 +388109,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -388259,6 +388572,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>page</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -388578,6 +388894,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <KeySig>
               <linked>
@@ -389076,6 +389395,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -389440,6 +389762,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -389944,6 +390269,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -390308,6 +390636,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
           </Measure>
         <Measure len="8/4">
           <multiMeasureRest>2</multiMeasureRest>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <durationType>measure</durationType>
@@ -390316,6 +390647,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <linked>
@@ -397516,6 +397850,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Fermata>
               <subtype>fermataAbove</subtype>
@@ -398025,6 +398362,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Dynamic>
               <subtype>f</subtype>
@@ -398501,6 +398841,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Fermata>
               <subtype>fermataAbove</subtype>
@@ -399176,6 +399519,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -399642,6 +399988,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -400302,6 +400651,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -403205,6 +403557,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>page</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -403533,6 +403888,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <KeySig>
               <linked>
@@ -405202,6 +405560,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -405654,6 +406015,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -411472,6 +411836,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Fermata>
               <subtype>fermataAbove</subtype>
@@ -411981,6 +412348,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Dynamic>
               <subtype>f</subtype>
@@ -412457,6 +412827,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Fermata>
               <subtype>fermataAbove</subtype>
@@ -416413,6 +416786,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>page</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -424763,6 +425139,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Fermata>
               <subtype>fermataAbove</subtype>
@@ -425252,6 +425631,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <linked>
@@ -425728,6 +426110,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Fermata>
               <subtype>fermataAbove</subtype>
@@ -429480,6 +429865,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>page</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -436686,6 +437074,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Fermata>
               <subtype>fermataAbove</subtype>
@@ -437177,6 +437568,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <linked>
@@ -437653,6 +438047,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Fermata>
               <subtype>fermataAbove</subtype>
@@ -441398,6 +441795,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>page</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -447945,6 +448345,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Fermata>
               <subtype>fermataAbove</subtype>
@@ -448417,6 +448820,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -448866,6 +449272,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Fermata>
               <subtype>fermataAbove</subtype>
@@ -452771,6 +453180,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>page</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -459550,6 +459962,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Fermata>
               <subtype>fermataAbove</subtype>
@@ -460106,6 +460521,9 @@ Hand in bell (open gradually)</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <linked>
@@ -460692,6 +461110,9 @@ Hand in bell (open gradually)</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Fermata>
               <subtype>fermataAbove</subtype>
@@ -461164,6 +461585,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -465079,6 +465503,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>page</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -473154,6 +473581,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Fermata>
               <subtype>fermataAbove</subtype>
@@ -473719,6 +474149,9 @@ Hand in bell (open gradually)</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <linked>
@@ -474305,6 +474738,9 @@ Hand in bell (open gradually)</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Fermata>
               <subtype>fermataAbove</subtype>
@@ -474912,6 +475348,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -476148,6 +476587,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
           </Measure>
         <Measure len="32/4">
           <multiMeasureRest>8</multiMeasureRest>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <durationType>measure</durationType>
@@ -476216,6 +476658,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <linked>
@@ -476302,6 +476747,7 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             <StaffText>
               <linked>
                 </linked>
+              <offset x="-0.1" y="-3.3"/>
               <text>(one player top, opt.)</text>
               </StaffText>
             <Chord>
@@ -476665,6 +477111,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -479007,6 +479456,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>page</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -485650,6 +486102,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Fermata>
               <subtype>fermataAbove</subtype>
@@ -486464,6 +486919,9 @@ Bottom: Euph + Bass Tbn, 8vb if desired</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <linked>
@@ -487464,6 +487922,9 @@ Bottom: Euph + Bass Tbn, 8vb if desired</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Fermata>
               <subtype>fermataAbove</subtype>
@@ -487955,6 +488416,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -491295,6 +491759,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>page</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -496070,6 +496537,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -497291,6 +497761,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Fermata>
               <subtype>fermataAbove</subtype>
@@ -497750,6 +498223,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -498179,6 +498655,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Fermata>
               <subtype>fermataAbove</subtype>
@@ -498670,6 +499149,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -498992,6 +499474,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -501128,6 +501613,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -501426,6 +501914,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -501720,6 +502211,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -502127,6 +502621,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -510792,6 +511289,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Fermata>
               <subtype>fermataAbove</subtype>
@@ -511383,6 +511883,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Fermata>
               <subtype>fermataAbove</subtype>
@@ -511643,6 +512146,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
           </Measure>
         <Measure len="21/4">
           <multiMeasureRest>7</multiMeasureRest>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <durationType>measure</durationType>
@@ -511706,6 +512212,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <linked>
@@ -511951,6 +512460,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -527155,6 +527667,9 @@ Zane Wang</text>
           </Measure>
         <Measure len="8/4">
           <multiMeasureRest>2</multiMeasureRest>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <durationType>measure</durationType>
@@ -527168,6 +527683,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <linked>
@@ -527447,6 +527965,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -528329,6 +528850,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Fermata>
               <subtype>fermataAbove</subtype>
@@ -528615,6 +529139,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Fermata>
               <subtype>fermataAbove</subtype>
@@ -529015,6 +529542,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
           </Measure>
         <Measure len="276/4">
           <multiMeasureRest>69</multiMeasureRest>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <TimeSig>
               <linked>
@@ -529714,6 +530244,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <linked>
@@ -529776,6 +530309,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
           </Measure>
         <Measure len="64/4">
           <multiMeasureRest>16</multiMeasureRest>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <SystemText>
               <linked>
@@ -529959,6 +530495,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <linked>
@@ -537619,6 +538158,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Fermata>
               <subtype>fermataAbove</subtype>
@@ -553218,6 +553760,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Fermata>
               <subtype>fermataAbove</subtype>
@@ -563277,6 +563822,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Fermata>
               <subtype>fermataAbove</subtype>
@@ -571971,6 +572519,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Fermata>
               <subtype>fermataAbove</subtype>
@@ -572262,6 +572813,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Fermata>
               <subtype>fermataAbove</subtype>
@@ -575022,6 +575576,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -575619,6 +576176,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <KeySig>
               <linked>
@@ -576020,6 +576580,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -576532,6 +577095,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -577023,6 +577589,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -577538,6 +578107,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -577863,6 +578435,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -579974,6 +580549,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Fermata>
               <subtype>fermataAbove</subtype>
@@ -580595,6 +581173,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Dynamic>
               <subtype>ff</subtype>
@@ -581294,6 +581875,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Fermata>
               <subtype>fermataAbove</subtype>
@@ -582102,6 +582686,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
           </Measure>
         <Measure len="276/4">
           <multiMeasureRest>69</multiMeasureRest>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <TimeSig>
               <linked>
@@ -582801,6 +583388,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <linked>
@@ -592402,6 +592992,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Fermata>
               <subtype>fermataAbove</subtype>
@@ -592912,6 +593505,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -593443,6 +594039,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Spanner type="HairPin">
               <prev>
@@ -593824,6 +594423,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -594282,6 +594884,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Dynamic>
               <subtype>f</subtype>
@@ -595930,6 +596535,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -596299,6 +596907,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -598492,6 +599103,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -598807,6 +599421,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -599092,6 +599709,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -599532,6 +600152,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -612227,6 +612850,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Dynamic>
               <subtype>f</subtype>
@@ -628758,6 +629384,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Dynamic>
               <subtype>f</subtype>
@@ -646182,6 +646811,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Dynamic>
               <subtype>f</subtype>
@@ -662335,6 +662967,9 @@ Zane Wang</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Dynamic>
               <subtype>f</subtype>
@@ -677774,6 +678409,9 @@ accent Es slightly</text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Fermata>
               <subtype>fermataAbove</subtype>
@@ -686208,6 +686846,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -686695,6 +687336,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -687484,6 +688128,9 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -703590,8 +704237,11 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
               <Note>
                 <linked>
                   </linked>
-                <pitch>45</pitch>
-                <tpc>17</tpc>
+                <Accidental>
+                  <subtype>accidentalSharp</subtype>
+                  </Accidental>
+                <pitch>49</pitch>
+                <tpc>21</tpc>
                 </Note>
               </Chord>
             </voice>
