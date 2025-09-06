@@ -2416,30 +2416,25 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>24.9544</height>
+        <height>18.6857</height>
         <boxAutoSize>0</boxAutoSize>
         <linkedMain/>
         <Text>
           <linkedMain/>
           <style>Title</style>
-          <text>Suite from OCTOPATH TRAVELER</text>
+          <text><font size="18"/>Suite from OCTOPATH TRAVELER</text>
           </Text>
         <Text>
           <linkedMain/>
           <style>Composer</style>
-          <text>Yasunori Nishiki</text>
-          </Text>
-        <Text>
-          <linkedMain/>
-          <style>Lyricist</style>
-          <text>arr:
-Jonathan Shim 
+          <text>Yasunori Nishiki
+arr. Jonathan Shim,
 Zane Wang</text>
           </Text>
         <Text>
           <linkedMain/>
           <style>Subtitle</style>
-          <text>Journey Across Orsterra</text>
+          <text><font size="14"/>Journey Across Orsterra</text>
           </Text>
         </VBox>
       <Measure>
@@ -336881,6 +336876,10 @@ accent Es slightly</text>
         <enableVerticalSpread>1</enableVerticalSpread>
         <useStandardNoteNames>0</useStandardNoteNames>
         <createMultiMeasureRests>1</createMultiMeasureRests>
+        <titleFontSize>18</titleFontSize>
+        <subTitleFontSize>14</subTitleFontSize>
+        <composerFontSize>8</composerFontSize>
+        <partInstrumentFontSize>12</partInstrumentFontSize>
         <Spatium>1.74978</Spatium>
         </Style>
       <showInvisible>1</showInvisible>
@@ -336963,7 +336962,8 @@ accent Es slightly</text>
         </Part>
       <Staff id="1">
         <VBox>
-          <height>24.9544</height>
+          <height>8.67659</height>
+          <boxAutoSize>0</boxAutoSize>
           <linked>
             </linked>
           <Text>
@@ -336976,14 +336976,8 @@ accent Es slightly</text>
             <linked>
               </linked>
             <style>Composer</style>
-            <text>Yasunori Nishiki</text>
-            </Text>
-          <Text>
-            <linked>
-              </linked>
-            <style>Lyricist</style>
-            <text>arr:
-Jonathan Shim 
+            <text>Yasunori Nishiki
+arr. Jonathan Shim,
 Zane Wang</text>
             </Text>
           <Text>
@@ -346065,6 +346059,10 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
         <enableVerticalSpread>1</enableVerticalSpread>
         <useStandardNoteNames>0</useStandardNoteNames>
         <createMultiMeasureRests>1</createMultiMeasureRests>
+        <titleFontSize>18</titleFontSize>
+        <subTitleFontSize>14</subTitleFontSize>
+        <composerFontSize>8</composerFontSize>
+        <partInstrumentFontSize>12</partInstrumentFontSize>
         <Spatium>1.74978</Spatium>
         </Style>
       <showInvisible>1</showInvisible>
@@ -346141,7 +346139,8 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
         </Part>
       <Staff id="1">
         <VBox>
-          <height>24.9544</height>
+          <height>9.01186</height>
+          <boxAutoSize>0</boxAutoSize>
           <linked>
             <location>
               <staves>-1</staves>
@@ -346163,17 +346162,8 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
                 </location>
               </linked>
             <style>Composer</style>
-            <text>Yasunori Nishiki</text>
-            </Text>
-          <Text>
-            <linked>
-              <location>
-                <staves>-1</staves>
-                </location>
-              </linked>
-            <style>Lyricist</style>
-            <text>arr:
-Jonathan Shim 
+            <text>Yasunori Nishiki
+arr. Jonathan Shim,
 Zane Wang</text>
             </Text>
           <Text>
@@ -346208,7 +346198,7 @@ Zane Wang</text>
                 <location>
                   <staves>-1</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b>Mvt. 1</b> - <i>Main Theme</i></text>
               </SystemText>
@@ -346219,7 +346209,7 @@ Zane Wang</text>
                 <location>
                   <staves>-1</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 128</b></text>
               </Tempo>
@@ -346246,7 +346236,7 @@ Zane Wang</text>
                 <location>
                   <staves>-1</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b>Mvt. 1</b> - <i>Main Theme</i></text>
               </SystemText>
@@ -346257,7 +346247,7 @@ Zane Wang</text>
                 <location>
                   <staves>-1</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 128</b></text>
               </Tempo>
@@ -361800,6 +361790,10 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
         <enableVerticalSpread>1</enableVerticalSpread>
         <useStandardNoteNames>0</useStandardNoteNames>
         <createMultiMeasureRests>1</createMultiMeasureRests>
+        <titleFontSize>18</titleFontSize>
+        <subTitleFontSize>14</subTitleFontSize>
+        <composerFontSize>8</composerFontSize>
+        <partInstrumentFontSize>12</partInstrumentFontSize>
         <Spatium>1.74978</Spatium>
         </Style>
       <showInvisible>1</showInvisible>
@@ -361876,7 +361870,8 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
         </Part>
       <Staff id="1">
         <VBox>
-          <height>24.9544</height>
+          <height>8.20578</height>
+          <boxAutoSize>0</boxAutoSize>
           <linked>
             <location>
               <staves>-2</staves>
@@ -361898,17 +361893,8 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
                 </location>
               </linked>
             <style>Composer</style>
-            <text>Yasunori Nishiki</text>
-            </Text>
-          <Text>
-            <linked>
-              <location>
-                <staves>-2</staves>
-                </location>
-              </linked>
-            <style>Lyricist</style>
-            <text>arr:
-Jonathan Shim 
+            <text>Yasunori Nishiki
+arr. Jonathan Shim,
 Zane Wang</text>
             </Text>
           <Text>
@@ -361943,7 +361929,7 @@ Zane Wang</text>
                 <location>
                   <staves>-2</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b>Mvt. 1</b> - <i>Main Theme</i></text>
               </SystemText>
@@ -361954,7 +361940,7 @@ Zane Wang</text>
                 <location>
                   <staves>-2</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 128</b></text>
               </Tempo>
@@ -361981,7 +361967,7 @@ Zane Wang</text>
                 <location>
                   <staves>-2</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b>Mvt. 1</b> - <i>Main Theme</i></text>
               </SystemText>
@@ -361992,7 +361978,7 @@ Zane Wang</text>
                 <location>
                   <staves>-2</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 128</b></text>
               </Tempo>
@@ -375411,6 +375397,10 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
         <enableVerticalSpread>1</enableVerticalSpread>
         <useStandardNoteNames>0</useStandardNoteNames>
         <createMultiMeasureRests>1</createMultiMeasureRests>
+        <titleFontSize>18</titleFontSize>
+        <subTitleFontSize>14</subTitleFontSize>
+        <composerFontSize>8</composerFontSize>
+        <partInstrumentFontSize>12</partInstrumentFontSize>
         <Spatium>1.74978</Spatium>
         </Style>
       <showInvisible>1</showInvisible>
@@ -375476,7 +375466,8 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
         </Part>
       <Staff id="1">
         <VBox>
-          <height>24.9544</height>
+          <height>8.38491</height>
+          <boxAutoSize>0</boxAutoSize>
           <linked>
             <location>
               <staves>-3</staves>
@@ -375498,17 +375489,8 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
                 </location>
               </linked>
             <style>Composer</style>
-            <text>Yasunori Nishiki</text>
-            </Text>
-          <Text>
-            <linked>
-              <location>
-                <staves>-3</staves>
-                </location>
-              </linked>
-            <style>Lyricist</style>
-            <text>arr:
-Jonathan Shim 
+            <text>Yasunori Nishiki
+arr. Jonathan Shim,
 Zane Wang</text>
             </Text>
           <Text>
@@ -375543,7 +375525,7 @@ Zane Wang</text>
                 <location>
                   <staves>-3</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b>Mvt. 1</b> - <i>Main Theme</i></text>
               </SystemText>
@@ -375554,7 +375536,7 @@ Zane Wang</text>
                 <location>
                   <staves>-3</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 128</b></text>
               </Tempo>
@@ -375581,7 +375563,7 @@ Zane Wang</text>
                 <location>
                   <staves>-3</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b>Mvt. 1</b> - <i>Main Theme</i></text>
               </SystemText>
@@ -375592,7 +375574,7 @@ Zane Wang</text>
                 <location>
                   <staves>-3</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 128</b></text>
               </Tempo>
@@ -390682,6 +390664,10 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
         <enableVerticalSpread>1</enableVerticalSpread>
         <useStandardNoteNames>0</useStandardNoteNames>
         <createMultiMeasureRests>1</createMultiMeasureRests>
+        <titleFontSize>18</titleFontSize>
+        <subTitleFontSize>14</subTitleFontSize>
+        <composerFontSize>8</composerFontSize>
+        <partInstrumentFontSize>12</partInstrumentFontSize>
         <Spatium>1.74978</Spatium>
         </Style>
       <showInvisible>1</showInvisible>
@@ -390750,7 +390736,8 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
         </Part>
       <Staff id="1">
         <VBox>
-          <height>24.9544</height>
+          <height>8.6536</height>
+          <boxAutoSize>0</boxAutoSize>
           <linked>
             <location>
               <staves>-4</staves>
@@ -390772,17 +390759,8 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
                 </location>
               </linked>
             <style>Composer</style>
-            <text>Yasunori Nishiki</text>
-            </Text>
-          <Text>
-            <linked>
-              <location>
-                <staves>-4</staves>
-                </location>
-              </linked>
-            <style>Lyricist</style>
-            <text>arr:
-Jonathan Shim 
+            <text>Yasunori Nishiki
+arr. Jonathan Shim,
 Zane Wang</text>
             </Text>
           <Text>
@@ -390817,7 +390795,7 @@ Zane Wang</text>
                 <location>
                   <staves>-4</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b>Mvt. 1</b> - <i>Main Theme</i></text>
               </SystemText>
@@ -390828,7 +390806,7 @@ Zane Wang</text>
                 <location>
                   <staves>-4</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 128</b></text>
               </Tempo>
@@ -390855,7 +390833,7 @@ Zane Wang</text>
                 <location>
                   <staves>-4</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b>Mvt. 1</b> - <i>Main Theme</i></text>
               </SystemText>
@@ -390866,7 +390844,7 @@ Zane Wang</text>
                 <location>
                   <staves>-4</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 128</b></text>
               </Tempo>
@@ -406106,6 +406084,10 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
         <enableVerticalSpread>1</enableVerticalSpread>
         <useStandardNoteNames>0</useStandardNoteNames>
         <createMultiMeasureRests>1</createMultiMeasureRests>
+        <titleFontSize>18</titleFontSize>
+        <subTitleFontSize>14</subTitleFontSize>
+        <composerFontSize>8</composerFontSize>
+        <partInstrumentFontSize>12</partInstrumentFontSize>
         <Spatium>1.74978</Spatium>
         </Style>
       <showInvisible>1</showInvisible>
@@ -406183,7 +406165,8 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
         </Part>
       <Staff id="1">
         <VBox>
-          <height>24.9544</height>
+          <height>8.47447</height>
+          <boxAutoSize>0</boxAutoSize>
           <linked>
             <location>
               <staves>-5</staves>
@@ -406205,17 +406188,8 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
                 </location>
               </linked>
             <style>Composer</style>
-            <text>Yasunori Nishiki</text>
-            </Text>
-          <Text>
-            <linked>
-              <location>
-                <staves>-5</staves>
-                </location>
-              </linked>
-            <style>Lyricist</style>
-            <text>arr:
-Jonathan Shim 
+            <text>Yasunori Nishiki
+arr. Jonathan Shim,
 Zane Wang</text>
             </Text>
           <Text>
@@ -406250,7 +406224,7 @@ Zane Wang</text>
                 <location>
                   <staves>-5</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b>Mvt. 1</b> - <i>Main Theme</i></text>
               </SystemText>
@@ -406261,7 +406235,7 @@ Zane Wang</text>
                 <location>
                   <staves>-5</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 128</b></text>
               </Tempo>
@@ -406288,7 +406262,7 @@ Zane Wang</text>
                 <location>
                   <staves>-5</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b>Mvt. 1</b> - <i>Main Theme</i></text>
               </SystemText>
@@ -406299,7 +406273,7 @@ Zane Wang</text>
                 <location>
                   <staves>-5</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 128</b></text>
               </Tempo>
@@ -418367,6 +418341,10 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
         <enableVerticalSpread>1</enableVerticalSpread>
         <useStandardNoteNames>0</useStandardNoteNames>
         <createMultiMeasureRests>1</createMultiMeasureRests>
+        <titleFontSize>18</titleFontSize>
+        <subTitleFontSize>14</subTitleFontSize>
+        <composerFontSize>8</composerFontSize>
+        <partInstrumentFontSize>12</partInstrumentFontSize>
         <Spatium>1.74978</Spatium>
         </Style>
       <showInvisible>1</showInvisible>
@@ -418445,7 +418423,8 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
         </Part>
       <Staff id="1">
         <VBox>
-          <height>24.9544</height>
+          <height>8.29534</height>
+          <boxAutoSize>0</boxAutoSize>
           <linked>
             <location>
               <staves>-6</staves>
@@ -418467,17 +418446,8 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
                 </location>
               </linked>
             <style>Composer</style>
-            <text>Yasunori Nishiki</text>
-            </Text>
-          <Text>
-            <linked>
-              <location>
-                <staves>-6</staves>
-                </location>
-              </linked>
-            <style>Lyricist</style>
-            <text>arr:
-Jonathan Shim 
+            <text>Yasunori Nishiki
+arr. Jonathan Shim,
 Zane Wang</text>
             </Text>
           <Text>
@@ -418512,7 +418482,7 @@ Zane Wang</text>
                 <location>
                   <staves>-6</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b>Mvt. 1</b> - <i>Main Theme</i></text>
               </SystemText>
@@ -418523,7 +418493,7 @@ Zane Wang</text>
                 <location>
                   <staves>-6</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 128</b></text>
               </Tempo>
@@ -418550,7 +418520,7 @@ Zane Wang</text>
                 <location>
                   <staves>-6</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b>Mvt. 1</b> - <i>Main Theme</i></text>
               </SystemText>
@@ -418561,7 +418531,7 @@ Zane Wang</text>
                 <location>
                   <staves>-6</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 128</b></text>
               </Tempo>
@@ -432133,6 +432103,10 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
         <enableVerticalSpread>1</enableVerticalSpread>
         <useStandardNoteNames>0</useStandardNoteNames>
         <createMultiMeasureRests>1</createMultiMeasureRests>
+        <titleFontSize>18</titleFontSize>
+        <subTitleFontSize>14</subTitleFontSize>
+        <composerFontSize>8</composerFontSize>
+        <partInstrumentFontSize>12</partInstrumentFontSize>
         <Spatium>1.74978</Spatium>
         </Style>
       <showInvisible>1</showInvisible>
@@ -432215,7 +432189,8 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
         </Part>
       <Staff id="1">
         <VBox>
-          <height>24.9544</height>
+          <height>8.47447</height>
+          <boxAutoSize>0</boxAutoSize>
           <linked>
             <location>
               <staves>-7</staves>
@@ -432237,17 +432212,8 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
                 </location>
               </linked>
             <style>Composer</style>
-            <text>Yasunori Nishiki</text>
-            </Text>
-          <Text>
-            <linked>
-              <location>
-                <staves>-7</staves>
-                </location>
-              </linked>
-            <style>Lyricist</style>
-            <text>arr:
-Jonathan Shim 
+            <text>Yasunori Nishiki
+arr. Jonathan Shim,
 Zane Wang</text>
             </Text>
           <Text>
@@ -432282,7 +432248,7 @@ Zane Wang</text>
                 <location>
                   <staves>-7</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b>Mvt. 1</b> - <i>Main Theme</i></text>
               </SystemText>
@@ -432293,7 +432259,7 @@ Zane Wang</text>
                 <location>
                   <staves>-7</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 128</b></text>
               </Tempo>
@@ -432320,7 +432286,7 @@ Zane Wang</text>
                 <location>
                   <staves>-7</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b>Mvt. 1</b> - <i>Main Theme</i></text>
               </SystemText>
@@ -432331,7 +432297,7 @@ Zane Wang</text>
                 <location>
                   <staves>-7</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 128</b></text>
               </Tempo>
@@ -443385,6 +443351,10 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
         <enableVerticalSpread>1</enableVerticalSpread>
         <useStandardNoteNames>0</useStandardNoteNames>
         <createMultiMeasureRests>1</createMultiMeasureRests>
+        <titleFontSize>18</titleFontSize>
+        <subTitleFontSize>14</subTitleFontSize>
+        <composerFontSize>8</composerFontSize>
+        <partInstrumentFontSize>12</partInstrumentFontSize>
         <Spatium>1.74978</Spatium>
         </Style>
       <showInvisible>1</showInvisible>
@@ -443466,7 +443436,8 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
         </Part>
       <Staff id="1">
         <VBox>
-          <height>24.9544</height>
+          <height>8.29534</height>
+          <boxAutoSize>0</boxAutoSize>
           <linked>
             <location>
               <staves>-8</staves>
@@ -443488,17 +443459,8 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
                 </location>
               </linked>
             <style>Composer</style>
-            <text>Yasunori Nishiki</text>
-            </Text>
-          <Text>
-            <linked>
-              <location>
-                <staves>-8</staves>
-                </location>
-              </linked>
-            <style>Lyricist</style>
-            <text>arr:
-Jonathan Shim 
+            <text>Yasunori Nishiki
+arr. Jonathan Shim,
 Zane Wang</text>
             </Text>
           <Text>
@@ -443533,7 +443495,7 @@ Zane Wang</text>
                 <location>
                   <staves>-8</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b>Mvt. 1</b> - <i>Main Theme</i></text>
               </SystemText>
@@ -443544,7 +443506,7 @@ Zane Wang</text>
                 <location>
                   <staves>-8</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 128</b></text>
               </Tempo>
@@ -443571,7 +443533,7 @@ Zane Wang</text>
                 <location>
                   <staves>-8</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b>Mvt. 1</b> - <i>Main Theme</i></text>
               </SystemText>
@@ -443582,7 +443544,7 @@ Zane Wang</text>
                 <location>
                   <staves>-8</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 128</b></text>
               </Tempo>
@@ -454663,6 +454625,10 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
         <enableVerticalSpread>1</enableVerticalSpread>
         <useStandardNoteNames>0</useStandardNoteNames>
         <createMultiMeasureRests>1</createMultiMeasureRests>
+        <titleFontSize>18</titleFontSize>
+        <subTitleFontSize>14</subTitleFontSize>
+        <composerFontSize>8</composerFontSize>
+        <partInstrumentFontSize>12</partInstrumentFontSize>
         <Spatium>1.74978</Spatium>
         </Style>
       <showInvisible>1</showInvisible>
@@ -454737,7 +454703,8 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
         </Part>
       <Staff id="1">
         <VBox>
-          <height>24.9544</height>
+          <height>8.11621</height>
+          <boxAutoSize>0</boxAutoSize>
           <linked>
             <location>
               <staves>-9</staves>
@@ -454759,17 +454726,8 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
                 </location>
               </linked>
             <style>Composer</style>
-            <text>Yasunori Nishiki</text>
-            </Text>
-          <Text>
-            <linked>
-              <location>
-                <staves>-9</staves>
-                </location>
-              </linked>
-            <style>Lyricist</style>
-            <text>arr:
-Jonathan Shim 
+            <text>Yasunori Nishiki
+arr. Jonathan Shim,
 Zane Wang</text>
             </Text>
           <Text>
@@ -454804,7 +454762,7 @@ Zane Wang</text>
                 <location>
                   <staves>-9</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b>Mvt. 1</b> - <i>Main Theme</i></text>
               </SystemText>
@@ -454815,7 +454773,7 @@ Zane Wang</text>
                 <location>
                   <staves>-9</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 128</b></text>
               </Tempo>
@@ -454842,7 +454800,7 @@ Zane Wang</text>
                 <location>
                   <staves>-9</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b>Mvt. 1</b> - <i>Main Theme</i></text>
               </SystemText>
@@ -454853,7 +454811,7 @@ Zane Wang</text>
                 <location>
                   <staves>-9</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 128</b></text>
               </Tempo>
@@ -467361,6 +467319,10 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
         <enableVerticalSpread>1</enableVerticalSpread>
         <useStandardNoteNames>0</useStandardNoteNames>
         <createMultiMeasureRests>1</createMultiMeasureRests>
+        <titleFontSize>18</titleFontSize>
+        <subTitleFontSize>14</subTitleFontSize>
+        <composerFontSize>8</composerFontSize>
+        <partInstrumentFontSize>12</partInstrumentFontSize>
         <Spatium>1.74978</Spatium>
         </Style>
       <showInvisible>1</showInvisible>
@@ -467428,7 +467390,8 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
         </Part>
       <Staff id="1">
         <VBox>
-          <height>24.9544</height>
+          <height>8.29534</height>
+          <boxAutoSize>0</boxAutoSize>
           <linked>
             <location>
               <staves>-10</staves>
@@ -467450,17 +467413,8 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
                 </location>
               </linked>
             <style>Composer</style>
-            <text>Yasunori Nishiki</text>
-            </Text>
-          <Text>
-            <linked>
-              <location>
-                <staves>-10</staves>
-                </location>
-              </linked>
-            <style>Lyricist</style>
-            <text>arr:
-Jonathan Shim 
+            <text>Yasunori Nishiki
+arr. Jonathan Shim,
 Zane Wang</text>
             </Text>
           <Text>
@@ -467495,7 +467449,7 @@ Zane Wang</text>
                 <location>
                   <staves>-10</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b>Mvt. 1</b> - <i>Main Theme</i></text>
               </SystemText>
@@ -467506,7 +467460,7 @@ Zane Wang</text>
                 <location>
                   <staves>-10</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 128</b></text>
               </Tempo>
@@ -467533,7 +467487,7 @@ Zane Wang</text>
                 <location>
                   <staves>-10</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b>Mvt. 1</b> - <i>Main Theme</i></text>
               </SystemText>
@@ -467544,7 +467498,7 @@ Zane Wang</text>
                 <location>
                   <staves>-10</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 128</b></text>
               </Tempo>
@@ -481324,6 +481278,10 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
         <enableVerticalSpread>1</enableVerticalSpread>
         <useStandardNoteNames>0</useStandardNoteNames>
         <createMultiMeasureRests>1</createMultiMeasureRests>
+        <titleFontSize>18</titleFontSize>
+        <subTitleFontSize>14</subTitleFontSize>
+        <composerFontSize>8</composerFontSize>
+        <partInstrumentFontSize>12</partInstrumentFontSize>
         <Spatium>1.74978</Spatium>
         </Style>
       <showInvisible>1</showInvisible>
@@ -481409,7 +481367,8 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
         </Part>
       <Staff id="1">
         <VBox>
-          <height>24.9544</height>
+          <height>8.20578</height>
+          <boxAutoSize>0</boxAutoSize>
           <linked>
             <location>
               <staves>-11</staves>
@@ -481431,17 +481390,8 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
                 </location>
               </linked>
             <style>Composer</style>
-            <text>Yasunori Nishiki</text>
-            </Text>
-          <Text>
-            <linked>
-              <location>
-                <staves>-11</staves>
-                </location>
-              </linked>
-            <style>Lyricist</style>
-            <text>arr:
-Jonathan Shim 
+            <text>Yasunori Nishiki
+arr. Jonathan Shim,
 Zane Wang</text>
             </Text>
           <Text>
@@ -481476,7 +481426,7 @@ Zane Wang</text>
                 <location>
                   <staves>-11</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b>Mvt. 1</b> - <i>Main Theme</i></text>
               </SystemText>
@@ -481487,7 +481437,7 @@ Zane Wang</text>
                 <location>
                   <staves>-11</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 128</b></text>
               </Tempo>
@@ -481514,7 +481464,7 @@ Zane Wang</text>
                 <location>
                   <staves>-11</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b>Mvt. 1</b> - <i>Main Theme</i></text>
               </SystemText>
@@ -481525,7 +481475,7 @@ Zane Wang</text>
                 <location>
                   <staves>-11</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 128</b></text>
               </Tempo>
@@ -493233,6 +493183,10 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
         <enableVerticalSpread>1</enableVerticalSpread>
         <useStandardNoteNames>0</useStandardNoteNames>
         <createMultiMeasureRests>1</createMultiMeasureRests>
+        <titleFontSize>18</titleFontSize>
+        <subTitleFontSize>14</subTitleFontSize>
+        <composerFontSize>8</composerFontSize>
+        <partInstrumentFontSize>12</partInstrumentFontSize>
         <Spatium>1.74978</Spatium>
         </Style>
       <showInvisible>1</showInvisible>
@@ -493310,7 +493264,8 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
         </Part>
       <Staff id="1">
         <VBox>
-          <height>24.9544</height>
+          <height>8.20578</height>
+          <boxAutoSize>0</boxAutoSize>
           <linked>
             <location>
               <staves>-12</staves>
@@ -493332,17 +493287,8 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
                 </location>
               </linked>
             <style>Composer</style>
-            <text>Yasunori Nishiki</text>
-            </Text>
-          <Text>
-            <linked>
-              <location>
-                <staves>-12</staves>
-                </location>
-              </linked>
-            <style>Lyricist</style>
-            <text>arr:
-Jonathan Shim 
+            <text>Yasunori Nishiki
+arr. Jonathan Shim,
 Zane Wang</text>
             </Text>
           <Text>
@@ -493377,7 +493323,7 @@ Zane Wang</text>
                 <location>
                   <staves>-12</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b>Mvt. 1</b> - <i>Main Theme</i></text>
               </SystemText>
@@ -493388,7 +493334,7 @@ Zane Wang</text>
                 <location>
                   <staves>-12</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 128</b></text>
               </Tempo>
@@ -493415,7 +493361,7 @@ Zane Wang</text>
                 <location>
                   <staves>-12</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b>Mvt. 1</b> - <i>Main Theme</i></text>
               </SystemText>
@@ -493426,7 +493372,7 @@ Zane Wang</text>
                 <location>
                   <staves>-12</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 128</b></text>
               </Tempo>
@@ -503892,6 +503838,10 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
         <enableVerticalSpread>1</enableVerticalSpread>
         <useStandardNoteNames>0</useStandardNoteNames>
         <createMultiMeasureRests>1</createMultiMeasureRests>
+        <titleFontSize>18</titleFontSize>
+        <subTitleFontSize>14</subTitleFontSize>
+        <composerFontSize>8</composerFontSize>
+        <partInstrumentFontSize>12</partInstrumentFontSize>
         <Spatium>1.74978</Spatium>
         </Style>
       <showInvisible>1</showInvisible>
@@ -504151,7 +504101,8 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
         </Part>
       <Staff id="1">
         <VBox>
-          <height>24.9544</height>
+          <height>8.29534</height>
+          <boxAutoSize>0</boxAutoSize>
           <linked>
             <location>
               <staves>-13</staves>
@@ -504173,17 +504124,8 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
                 </location>
               </linked>
             <style>Composer</style>
-            <text>Yasunori Nishiki</text>
-            </Text>
-          <Text>
-            <linked>
-              <location>
-                <staves>-13</staves>
-                </location>
-              </linked>
-            <style>Lyricist</style>
-            <text>arr:
-Jonathan Shim 
+            <text>Yasunori Nishiki
+arr. Jonathan Shim,
 Zane Wang</text>
             </Text>
           <Text>
@@ -504213,7 +504155,7 @@ Zane Wang</text>
                 <location>
                   <staves>-13</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b>Mvt. 1</b> - <i>Main Theme</i></text>
               </SystemText>
@@ -504224,7 +504166,7 @@ Zane Wang</text>
                 <location>
                   <staves>-13</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 128</b></text>
               </Tempo>
@@ -504252,7 +504194,7 @@ Zane Wang</text>
                 <location>
                   <staves>-13</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b>Mvt. 1</b> - <i>Main Theme</i></text>
               </SystemText>
@@ -504263,7 +504205,7 @@ Zane Wang</text>
                 <location>
                   <staves>-13</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 128</b></text>
               </Tempo>
@@ -526466,6 +526408,10 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
         <enableVerticalSpread>1</enableVerticalSpread>
         <useStandardNoteNames>0</useStandardNoteNames>
         <createMultiMeasureRests>1</createMultiMeasureRests>
+        <titleFontSize>18</titleFontSize>
+        <subTitleFontSize>14</subTitleFontSize>
+        <composerFontSize>8</composerFontSize>
+        <partInstrumentFontSize>12</partInstrumentFontSize>
         <Spatium>1.74978</Spatium>
         </Style>
       <showInvisible>1</showInvisible>
@@ -526552,7 +526498,8 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
         </Part>
       <Staff id="1">
         <VBox>
-          <height>24.9544</height>
+          <height>8.74317</height>
+          <boxAutoSize>0</boxAutoSize>
           <linked>
             <location>
               <staves>-14</staves>
@@ -526574,17 +526521,8 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
                 </location>
               </linked>
             <style>Composer</style>
-            <text>Yasunori Nishiki</text>
-            </Text>
-          <Text>
-            <linked>
-              <location>
-                <staves>-14</staves>
-                </location>
-              </linked>
-            <style>Lyricist</style>
-            <text>arr:
-Jonathan Shim 
+            <text>Yasunori Nishiki
+arr. Jonathan Shim,
 Zane Wang</text>
             </Text>
           <Text>
@@ -526620,7 +526558,7 @@ Zane Wang</text>
                 <location>
                   <staves>-14</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b>Mvt. 1</b> - <i>Main Theme</i></text>
               </SystemText>
@@ -526631,7 +526569,7 @@ Zane Wang</text>
                 <location>
                   <staves>-14</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 128</b></text>
               </Tempo>
@@ -526658,7 +526596,7 @@ Zane Wang</text>
                 <location>
                   <staves>-14</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b>Mvt. 1</b> - <i>Main Theme</i></text>
               </SystemText>
@@ -526669,7 +526607,7 @@ Zane Wang</text>
                 <location>
                   <staves>-14</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 128</b></text>
               </Tempo>
@@ -530609,6 +530547,10 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
         <enableVerticalSpread>1</enableVerticalSpread>
         <useStandardNoteNames>0</useStandardNoteNames>
         <createMultiMeasureRests>1</createMultiMeasureRests>
+        <titleFontSize>18</titleFontSize>
+        <subTitleFontSize>14</subTitleFontSize>
+        <composerFontSize>8</composerFontSize>
+        <partInstrumentFontSize>12</partInstrumentFontSize>
         <Spatium>1.74978</Spatium>
         </Style>
       <showInvisible>1</showInvisible>
@@ -530694,7 +530636,8 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
         </Part>
       <Staff id="1">
         <VBox>
-          <height>24.9544</height>
+          <height>8.20578</height>
+          <boxAutoSize>0</boxAutoSize>
           <linked>
             <location>
               <staves>-15</staves>
@@ -530716,17 +530659,8 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
                 </location>
               </linked>
             <style>Composer</style>
-            <text>Yasunori Nishiki</text>
-            </Text>
-          <Text>
-            <linked>
-              <location>
-                <staves>-15</staves>
-                </location>
-              </linked>
-            <style>Lyricist</style>
-            <text>arr:
-Jonathan Shim 
+            <text>Yasunori Nishiki
+arr. Jonathan Shim,
 Zane Wang</text>
             </Text>
           <Text>
@@ -530756,7 +530690,7 @@ Zane Wang</text>
                 <location>
                   <staves>-15</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b>Mvt. 1</b> - <i>Main Theme</i></text>
               </SystemText>
@@ -530767,7 +530701,7 @@ Zane Wang</text>
                 <location>
                   <staves>-15</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 128</b></text>
               </Tempo>
@@ -530795,7 +530729,7 @@ Zane Wang</text>
                 <location>
                   <staves>-15</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b>Mvt. 1</b> - <i>Main Theme</i></text>
               </SystemText>
@@ -530806,7 +530740,7 @@ Zane Wang</text>
                 <location>
                   <staves>-15</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 128</b></text>
               </Tempo>
@@ -542064,6 +541998,10 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
         <enableVerticalSpread>1</enableVerticalSpread>
         <useStandardNoteNames>0</useStandardNoteNames>
         <createMultiMeasureRests>1</createMultiMeasureRests>
+        <titleFontSize>18</titleFontSize>
+        <subTitleFontSize>14</subTitleFontSize>
+        <composerFontSize>8</composerFontSize>
+        <partInstrumentFontSize>12</partInstrumentFontSize>
         <Spatium>1.74978</Spatium>
         </Style>
       <showInvisible>1</showInvisible>
@@ -542157,7 +542095,8 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
         </Part>
       <Staff id="1">
         <VBox>
-          <height>24.9544</height>
+          <height>8.47447</height>
+          <boxAutoSize>0</boxAutoSize>
           <linked>
             <location>
               <staves>-16</staves>
@@ -542179,17 +542118,8 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
                 </location>
               </linked>
             <style>Composer</style>
-            <text>Yasunori Nishiki</text>
-            </Text>
-          <Text>
-            <linked>
-              <location>
-                <staves>-16</staves>
-                </location>
-              </linked>
-            <style>Lyricist</style>
-            <text>arr:
-Jonathan Shim 
+            <text>Yasunori Nishiki
+arr. Jonathan Shim,
 Zane Wang</text>
             </Text>
           <Text>
@@ -542219,7 +542149,7 @@ Zane Wang</text>
                 <location>
                   <staves>-16</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b>Mvt. 1</b> - <i>Main Theme</i></text>
               </SystemText>
@@ -542230,7 +542160,7 @@ Zane Wang</text>
                 <location>
                   <staves>-16</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 128</b></text>
               </Tempo>
@@ -542258,7 +542188,7 @@ Zane Wang</text>
                 <location>
                   <staves>-16</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b>Mvt. 1</b> - <i>Main Theme</i></text>
               </SystemText>
@@ -542269,7 +542199,7 @@ Zane Wang</text>
                 <location>
                   <staves>-16</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 128</b></text>
               </Tempo>
@@ -557668,6 +557598,10 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
         <enableVerticalSpread>1</enableVerticalSpread>
         <useStandardNoteNames>0</useStandardNoteNames>
         <createMultiMeasureRests>1</createMultiMeasureRests>
+        <titleFontSize>18</titleFontSize>
+        <subTitleFontSize>14</subTitleFontSize>
+        <composerFontSize>8</composerFontSize>
+        <partInstrumentFontSize>12</partInstrumentFontSize>
         <Spatium>1.74978</Spatium>
         </Style>
       <showInvisible>1</showInvisible>
@@ -557755,7 +557689,8 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
         </Part>
       <Staff id="1">
         <VBox>
-          <height>24.9544</height>
+          <height>8.20578</height>
+          <boxAutoSize>0</boxAutoSize>
           <linked>
             <location>
               <staves>-17</staves>
@@ -557777,17 +557712,8 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
                 </location>
               </linked>
             <style>Composer</style>
-            <text>Yasunori Nishiki</text>
-            </Text>
-          <Text>
-            <linked>
-              <location>
-                <staves>-17</staves>
-                </location>
-              </linked>
-            <style>Lyricist</style>
-            <text>arr:
-Jonathan Shim 
+            <text>Yasunori Nishiki
+arr. Jonathan Shim,
 Zane Wang</text>
             </Text>
           <Text>
@@ -557817,7 +557743,7 @@ Zane Wang</text>
                 <location>
                   <staves>-17</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b>Mvt. 1</b> - <i>Main Theme</i></text>
               </SystemText>
@@ -557828,7 +557754,7 @@ Zane Wang</text>
                 <location>
                   <staves>-17</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 128</b></text>
               </Tempo>
@@ -557856,7 +557782,7 @@ Zane Wang</text>
                 <location>
                   <staves>-17</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b>Mvt. 1</b> - <i>Main Theme</i></text>
               </SystemText>
@@ -557867,7 +557793,7 @@ Zane Wang</text>
                 <location>
                   <staves>-17</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 128</b></text>
               </Tempo>
@@ -567099,6 +567025,10 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
         <enableVerticalSpread>1</enableVerticalSpread>
         <useStandardNoteNames>0</useStandardNoteNames>
         <createMultiMeasureRests>1</createMultiMeasureRests>
+        <titleFontSize>18</titleFontSize>
+        <subTitleFontSize>14</subTitleFontSize>
+        <composerFontSize>8</composerFontSize>
+        <partInstrumentFontSize>12</partInstrumentFontSize>
         <Spatium>1.74978</Spatium>
         </Style>
       <showInvisible>1</showInvisible>
@@ -567178,7 +567108,8 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
         </Part>
       <Staff id="1">
         <VBox>
-          <height>24.9544</height>
+          <height>7.93708</height>
+          <boxAutoSize>0</boxAutoSize>
           <linked>
             <location>
               <staves>-18</staves>
@@ -567200,17 +567131,8 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
                 </location>
               </linked>
             <style>Composer</style>
-            <text>Yasunori Nishiki</text>
-            </Text>
-          <Text>
-            <linked>
-              <location>
-                <staves>-18</staves>
-                </location>
-              </linked>
-            <style>Lyricist</style>
-            <text>arr:
-Jonathan Shim 
+            <text>Yasunori Nishiki
+arr. Jonathan Shim,
 Zane Wang</text>
             </Text>
           <Text>
@@ -567245,7 +567167,7 @@ Zane Wang</text>
                 <location>
                   <staves>-18</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b>Mvt. 1</b> - <i>Main Theme</i></text>
               </SystemText>
@@ -567256,7 +567178,7 @@ Zane Wang</text>
                 <location>
                   <staves>-18</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 128</b></text>
               </Tempo>
@@ -567283,7 +567205,7 @@ Zane Wang</text>
                 <location>
                   <staves>-18</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b>Mvt. 1</b> - <i>Main Theme</i></text>
               </SystemText>
@@ -567294,7 +567216,7 @@ Zane Wang</text>
                 <location>
                   <staves>-18</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 128</b></text>
               </Tempo>
@@ -578234,6 +578156,10 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
         <enableVerticalSpread>1</enableVerticalSpread>
         <useStandardNoteNames>0</useStandardNoteNames>
         <createMultiMeasureRests>1</createMultiMeasureRests>
+        <titleFontSize>18</titleFontSize>
+        <subTitleFontSize>14</subTitleFontSize>
+        <composerFontSize>8</composerFontSize>
+        <partInstrumentFontSize>12</partInstrumentFontSize>
         <Spatium>1.74978</Spatium>
         </Style>
       <showInvisible>1</showInvisible>
@@ -578310,7 +578236,8 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
         </Part>
       <Staff id="1">
         <VBox>
-          <height>24.9544</height>
+          <height>8.38491</height>
+          <boxAutoSize>0</boxAutoSize>
           <linked>
             <location>
               <staves>-19</staves>
@@ -578332,17 +578259,8 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
                 </location>
               </linked>
             <style>Composer</style>
-            <text>Yasunori Nishiki</text>
-            </Text>
-          <Text>
-            <linked>
-              <location>
-                <staves>-19</staves>
-                </location>
-              </linked>
-            <style>Lyricist</style>
-            <text>arr:
-Jonathan Shim 
+            <text>Yasunori Nishiki
+arr. Jonathan Shim,
 Zane Wang</text>
             </Text>
           <Text>
@@ -578377,7 +578295,7 @@ Zane Wang</text>
                 <location>
                   <staves>-19</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b>Mvt. 1</b> - <i>Main Theme</i></text>
               </SystemText>
@@ -578388,7 +578306,7 @@ Zane Wang</text>
                 <location>
                   <staves>-19</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 128</b></text>
               </Tempo>
@@ -578415,7 +578333,7 @@ Zane Wang</text>
                 <location>
                   <staves>-19</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b>Mvt. 1</b> - <i>Main Theme</i></text>
               </SystemText>
@@ -578426,7 +578344,7 @@ Zane Wang</text>
                 <location>
                   <staves>-19</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 128</b></text>
               </Tempo>
@@ -584045,6 +583963,10 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
         <enableVerticalSpread>1</enableVerticalSpread>
         <useStandardNoteNames>0</useStandardNoteNames>
         <createMultiMeasureRests>1</createMultiMeasureRests>
+        <titleFontSize>18</titleFontSize>
+        <subTitleFontSize>14</subTitleFontSize>
+        <composerFontSize>8</composerFontSize>
+        <partInstrumentFontSize>12</partInstrumentFontSize>
         <Spatium>1.74978</Spatium>
         </Style>
       <showInvisible>1</showInvisible>
@@ -584121,7 +584043,8 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
         </Part>
       <Staff id="1">
         <VBox>
-          <height>24.9544</height>
+          <height>8.38491</height>
+          <boxAutoSize>0</boxAutoSize>
           <linked>
             <location>
               <staves>-20</staves>
@@ -584143,17 +584066,8 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
                 </location>
               </linked>
             <style>Composer</style>
-            <text>Yasunori Nishiki</text>
-            </Text>
-          <Text>
-            <linked>
-              <location>
-                <staves>-20</staves>
-                </location>
-              </linked>
-            <style>Lyricist</style>
-            <text>arr:
-Jonathan Shim 
+            <text>Yasunori Nishiki
+arr. Jonathan Shim,
 Zane Wang</text>
             </Text>
           <Text>
@@ -584188,7 +584102,7 @@ Zane Wang</text>
                 <location>
                   <staves>-20</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b>Mvt. 1</b> - <i>Main Theme</i></text>
               </SystemText>
@@ -584199,7 +584113,7 @@ Zane Wang</text>
                 <location>
                   <staves>-20</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 128</b></text>
               </Tempo>
@@ -602815,6 +602729,10 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
         <enableVerticalSpread>1</enableVerticalSpread>
         <useStandardNoteNames>0</useStandardNoteNames>
         <createMultiMeasureRests>1</createMultiMeasureRests>
+        <titleFontSize>18</titleFontSize>
+        <subTitleFontSize>14</subTitleFontSize>
+        <composerFontSize>8</composerFontSize>
+        <partInstrumentFontSize>12</partInstrumentFontSize>
         <Spatium>1.74978</Spatium>
         </Style>
       <showInvisible>1</showInvisible>
@@ -602890,7 +602808,8 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
         </Part>
       <Staff id="1">
         <VBox>
-          <height>24.9544</height>
+          <height>8.38491</height>
+          <boxAutoSize>0</boxAutoSize>
           <linked>
             <location>
               <staves>-21</staves>
@@ -602912,17 +602831,8 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
                 </location>
               </linked>
             <style>Composer</style>
-            <text>Yasunori Nishiki</text>
-            </Text>
-          <Text>
-            <linked>
-              <location>
-                <staves>-21</staves>
-                </location>
-              </linked>
-            <style>Lyricist</style>
-            <text>arr:
-Jonathan Shim 
+            <text>Yasunori Nishiki
+arr. Jonathan Shim,
 Zane Wang</text>
             </Text>
           <Text>
@@ -602957,7 +602867,7 @@ Zane Wang</text>
                 <location>
                   <staves>-21</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b>Mvt. 1</b> - <i>Main Theme</i></text>
               </SystemText>
@@ -602968,7 +602878,7 @@ Zane Wang</text>
                 <location>
                   <staves>-21</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 128</b></text>
               </Tempo>
@@ -619726,6 +619636,10 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
         <enableVerticalSpread>1</enableVerticalSpread>
         <useStandardNoteNames>0</useStandardNoteNames>
         <createMultiMeasureRests>1</createMultiMeasureRests>
+        <titleFontSize>18</titleFontSize>
+        <subTitleFontSize>14</subTitleFontSize>
+        <composerFontSize>8</composerFontSize>
+        <partInstrumentFontSize>12</partInstrumentFontSize>
         <Spatium>1.74978</Spatium>
         </Style>
       <showInvisible>1</showInvisible>
@@ -619803,7 +619717,8 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
         </Part>
       <Staff id="1">
         <VBox>
-          <height>24.9544</height>
+          <height>8.20578</height>
+          <boxAutoSize>0</boxAutoSize>
           <linked>
             <location>
               <staves>-22</staves>
@@ -619825,17 +619740,8 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
                 </location>
               </linked>
             <style>Composer</style>
-            <text>Yasunori Nishiki</text>
-            </Text>
-          <Text>
-            <linked>
-              <location>
-                <staves>-22</staves>
-                </location>
-              </linked>
-            <style>Lyricist</style>
-            <text>arr:
-Jonathan Shim 
+            <text>Yasunori Nishiki
+arr. Jonathan Shim,
 Zane Wang</text>
             </Text>
           <Text>
@@ -619870,7 +619776,7 @@ Zane Wang</text>
                 <location>
                   <staves>-22</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b>Mvt. 1</b> - <i>Main Theme</i></text>
               </SystemText>
@@ -619881,7 +619787,7 @@ Zane Wang</text>
                 <location>
                   <staves>-22</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 128</b></text>
               </Tempo>
@@ -638022,6 +637928,10 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
         <enableVerticalSpread>1</enableVerticalSpread>
         <useStandardNoteNames>0</useStandardNoteNames>
         <createMultiMeasureRests>1</createMultiMeasureRests>
+        <titleFontSize>18</titleFontSize>
+        <subTitleFontSize>14</subTitleFontSize>
+        <composerFontSize>8</composerFontSize>
+        <partInstrumentFontSize>12</partInstrumentFontSize>
         <Spatium>1.74978</Spatium>
         </Style>
       <showInvisible>1</showInvisible>
@@ -638102,7 +638012,8 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
         </Part>
       <Staff id="1">
         <VBox>
-          <height>24.9544</height>
+          <height>8.47447</height>
+          <boxAutoSize>0</boxAutoSize>
           <linked>
             <location>
               <staves>-23</staves>
@@ -638124,17 +638035,8 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
                 </location>
               </linked>
             <style>Composer</style>
-            <text>Yasunori Nishiki</text>
-            </Text>
-          <Text>
-            <linked>
-              <location>
-                <staves>-23</staves>
-                </location>
-              </linked>
-            <style>Lyricist</style>
-            <text>arr:
-Jonathan Shim 
+            <text>Yasunori Nishiki
+arr. Jonathan Shim,
 Zane Wang</text>
             </Text>
           <Text>
@@ -638169,7 +638071,7 @@ Zane Wang</text>
                 <location>
                   <staves>-23</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b>Mvt. 1</b> - <i>Main Theme</i></text>
               </SystemText>
@@ -638180,7 +638082,7 @@ Zane Wang</text>
                 <location>
                   <staves>-23</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 128</b></text>
               </Tempo>
@@ -654842,6 +654744,10 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
         <enableVerticalSpread>1</enableVerticalSpread>
         <useStandardNoteNames>0</useStandardNoteNames>
         <createMultiMeasureRests>1</createMultiMeasureRests>
+        <titleFontSize>18</titleFontSize>
+        <subTitleFontSize>14</subTitleFontSize>
+        <composerFontSize>8</composerFontSize>
+        <partInstrumentFontSize>12</partInstrumentFontSize>
         <Spatium>1.74978</Spatium>
         </Style>
       <showInvisible>1</showInvisible>
@@ -654923,7 +654829,8 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
         </Part>
       <Staff id="1">
         <VBox>
-          <height>24.9544</height>
+          <height>8.74317</height>
+          <boxAutoSize>0</boxAutoSize>
           <linked>
             <location>
               <staves>-24</staves>
@@ -654945,17 +654852,8 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
                 </location>
               </linked>
             <style>Composer</style>
-            <text>Yasunori Nishiki</text>
-            </Text>
-          <Text>
-            <linked>
-              <location>
-                <staves>-24</staves>
-                </location>
-              </linked>
-            <style>Lyricist</style>
-            <text>arr:
-Jonathan Shim 
+            <text>Yasunori Nishiki
+arr. Jonathan Shim,
 Zane Wang</text>
             </Text>
           <Text>
@@ -654996,7 +654894,7 @@ Zane Wang</text>
                 <location>
                   <staves>-24</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b>Mvt. 1</b> - <i>Main Theme</i></text>
               </SystemText>
@@ -655007,7 +654905,7 @@ Zane Wang</text>
                 <location>
                   <staves>-24</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 128</b></text>
               </Tempo>
@@ -669860,6 +669758,10 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
         <enableVerticalSpread>1</enableVerticalSpread>
         <useStandardNoteNames>0</useStandardNoteNames>
         <createMultiMeasureRests>1</createMultiMeasureRests>
+        <titleFontSize>18</titleFontSize>
+        <subTitleFontSize>14</subTitleFontSize>
+        <composerFontSize>8</composerFontSize>
+        <partInstrumentFontSize>12</partInstrumentFontSize>
         <Spatium>1.74978</Spatium>
         </Style>
       <showInvisible>1</showInvisible>
@@ -669952,7 +669854,8 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
         </Part>
       <Staff id="1">
         <VBox>
-          <height>24.9544</height>
+          <height>8.29534</height>
+          <boxAutoSize>0</boxAutoSize>
           <linked>
             <location>
               <staves>-25</staves>
@@ -669974,17 +669877,8 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
                 </location>
               </linked>
             <style>Composer</style>
-            <text>Yasunori Nishiki</text>
-            </Text>
-          <Text>
-            <linked>
-              <location>
-                <staves>-25</staves>
-                </location>
-              </linked>
-            <style>Lyricist</style>
-            <text>arr:
-Jonathan Shim 
+            <text>Yasunori Nishiki
+arr. Jonathan Shim,
 Zane Wang</text>
             </Text>
           <Text>
@@ -670019,7 +669913,7 @@ Zane Wang</text>
                 <location>
                   <staves>-25</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b>Mvt. 1</b> - <i>Main Theme</i></text>
               </SystemText>
@@ -670030,7 +669924,7 @@ Zane Wang</text>
                 <location>
                   <staves>-25</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 128</b></text>
               </Tempo>
@@ -670057,7 +669951,7 @@ Zane Wang</text>
                 <location>
                   <staves>-25</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b>Mvt. 1</b> - <i>Main Theme</i></text>
               </SystemText>
@@ -670068,7 +669962,7 @@ Zane Wang</text>
                 <location>
                   <staves>-25</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 128</b></text>
               </Tempo>
@@ -712674,6 +712568,10 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
         <enableVerticalSpread>1</enableVerticalSpread>
         <useStandardNoteNames>0</useStandardNoteNames>
         <createMultiMeasureRests>1</createMultiMeasureRests>
+        <titleFontSize>18</titleFontSize>
+        <subTitleFontSize>14</subTitleFontSize>
+        <composerFontSize>8</composerFontSize>
+        <partInstrumentFontSize>12</partInstrumentFontSize>
         <Spatium>1.74978</Spatium>
         </Style>
       <showInvisible>1</showInvisible>
@@ -712772,7 +712670,8 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
         </Part>
       <Staff id="1">
         <VBox>
-          <height>24.9544</height>
+          <height>8.20578</height>
+          <boxAutoSize>0</boxAutoSize>
           <linked>
             <location>
               <staves>-27</staves>
@@ -712794,17 +712693,8 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
                 </location>
               </linked>
             <style>Composer</style>
-            <text>Yasunori Nishiki</text>
-            </Text>
-          <Text>
-            <linked>
-              <location>
-                <staves>-27</staves>
-                </location>
-              </linked>
-            <style>Lyricist</style>
-            <text>arr:
-Jonathan Shim 
+            <text>Yasunori Nishiki
+arr. Jonathan Shim,
 Zane Wang</text>
             </Text>
           <Text>
@@ -712839,7 +712729,7 @@ Zane Wang</text>
                 <location>
                   <staves>-27</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b>Mvt. 1</b> - <i>Main Theme</i></text>
               </SystemText>
@@ -712850,7 +712740,7 @@ Zane Wang</text>
                 <location>
                   <staves>-27</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 128</b></text>
               </Tempo>
@@ -712877,7 +712767,7 @@ Zane Wang</text>
                 <location>
                   <staves>-27</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b>Mvt. 1</b> - <i>Main Theme</i></text>
               </SystemText>
@@ -712888,7 +712778,7 @@ Zane Wang</text>
                 <location>
                   <staves>-27</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 128</b></text>
               </Tempo>
@@ -734721,6 +734611,10 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
         <enableVerticalSpread>1</enableVerticalSpread>
         <useStandardNoteNames>0</useStandardNoteNames>
         <createMultiMeasureRests>1</createMultiMeasureRests>
+        <titleFontSize>18</titleFontSize>
+        <subTitleFontSize>14</subTitleFontSize>
+        <composerFontSize>8</composerFontSize>
+        <partInstrumentFontSize>12</partInstrumentFontSize>
         <Spatium>1.74978</Spatium>
         </Style>
       <showInvisible>1</showInvisible>
@@ -734818,7 +734712,8 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
         </Part>
       <Staff id="1">
         <VBox>
-          <height>24.9544</height>
+          <height>8.47447</height>
+          <boxAutoSize>0</boxAutoSize>
           <linked>
             <location>
               <staves>-29</staves>
@@ -734840,17 +734735,8 @@ Mvt. 4 - </b><i>For Truth + Decisive Batle II</i></text>
                 </location>
               </linked>
             <style>Composer</style>
-            <text>Yasunori Nishiki</text>
-            </Text>
-          <Text>
-            <linked>
-              <location>
-                <staves>-29</staves>
-                </location>
-              </linked>
-            <style>Lyricist</style>
-            <text>arr:
-Jonathan Shim 
+            <text>Yasunori Nishiki
+arr. Jonathan Shim,
 Zane Wang</text>
             </Text>
           <Text>
@@ -734885,7 +734771,7 @@ Zane Wang</text>
                 <location>
                   <staves>-29</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b>Mvt. 1</b> - <i>Main Theme</i></text>
               </SystemText>
@@ -734896,7 +734782,7 @@ Zane Wang</text>
                 <location>
                   <staves>-29</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 128</b></text>
               </Tempo>
@@ -734923,7 +734809,7 @@ Zane Wang</text>
                 <location>
                   <staves>-29</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b>Mvt. 1</b> - <i>Main Theme</i></text>
               </SystemText>
@@ -734934,7 +734820,7 @@ Zane Wang</text>
                 <location>
                   <staves>-29</staves>
                   </location>
-                <indexDiff>7</indexDiff>
+                <indexDiff>6</indexDiff>
                 </linked>
               <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 128</b></text>
               </Tempo>
